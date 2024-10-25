@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Details</title>
+    <link rel="stylesheet" href="Css/Productview.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+    <nav>
+        <div class="logo">
+            <a href="index.html"><img src="Images/organic_store-.png" alt=""></a> 
+         </div>
+        <div class="menu-icon" onclick="toggleMenu()">
+            <i class="fa-solid fa-bars"></i>
+        </div>
+        <div class="category-dropdown">
+            <select id="category-select" onchange="location = this.value;">
+                <option value="" disabled selected>Select a Category</option>
+                <option value="Category.html?Category=Health Care">Health Care</option>
+                <option value="Category.html?Category=Personal Care">Personal Care</option>
+                <option value="Category.html?Category=Agriculture">Agriculture</option>
+                <option value="Category.html?Category=Veterinary">Veterinary</option>
+                <option value="Category.html?Category=Grocery">Grocery</option>
+            </select>
+            <div class="search-bar">
+                <input type="text" name="Search" id="Search-products" placeholder="Search Products">
+                <div class="search-button" id="search-button">
+                    <i class="fa-solid fa-magnifying-glass" id="Search"></i>
+                </div>
+            </div>
+        </div>
+       
+        <div class="addtocart">
+            <a href="Addtocart.html">
+                <i class="fa-solid fa-cart-plus" id="addtocarts"></i>
+            </a>
+            <span class="addtocartvalue">0</span>
+            <a href="Wishlist.html" class="wh"><i class="fa-solid fa-heart heart"></i></a>
+        </div>
+        <div class="wishlists"></div>
+    </nav>
+
+    <div class="product-details">
+
+    </div>
+
+
+
+    <section class="category">
+        <h2>Related Products</h2>
+        <div class="category-container">
+         
+        </div>
+        <div class="view-all">
+         <a href="Allproducts.html"><button class="view-all-button">View All Items</button></a> 
+        </div>
+      </section>
+
+
+      <footer class="footer">
+        <div class="container">
+          <div class="footer-column">
+            <h3>About Us</h3>
+            <p>We provide high-quality products with a focus on customer satisfaction.</p>
+          </div>
+      
+          <div class="footer-column">
+            <h3>Quick Links</h3>
+            <ul>
+              <li><a href="#">Home</a></li>
+              <li><a href="#">Products</a></li>
+              <li><a href="#">Contact Us</a></li>
+              <li><a href="#">FAQs</a></li>
+            </ul>
+          </div>
+      
+          <div class="footer-column">               
+            <h3>Follow Us</h3>
+            <div class="social-icons">
+              <a href="#"><i class="fab fa-facebook"></i></a>
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-instagram"></i></a>
+              <a href="#"><i class="fab fa-linkedin"></i></a>
+            </div>
+          </div>
+        </div>
+      
+        <div class="footer-bottom">
+          <p>&copy; 2024 Your Website. All Rights Reserved.</p>
+        </div>
+      </footer>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="Js/Productviews1.js"></script>
+</body>
+</html>

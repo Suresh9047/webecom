@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Unilink Wishlist</title>
+        <link rel="stylesheet" href="Css/Addtocart.css">
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Slabo+27px&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+          integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+    </head>
+    <body>
+       
+
+        <nav>
+            <div class="logo">
+                <a href="index.html"><img src="Images/organic_store-.png" alt=""></a> 
+             </div>
+        
+            
+            <div class="menu-icon" onclick="toggleMenu()">
+                <i class="fa-solid fa-bars"></i>
+            </div>
+        
+           
+            <div class="category-dropdown">
+                <select id="category-select" onchange="location = this.value;">
+                    <option value="" disabled selected>Select a Category</option>
+                    <option value="Category.html?Category=Health Care">Health Care</option>
+                    <option value="Category.html?Category=Personal Care">Personal Care</option>
+                    <option value="Category.html?Category=Agriculture">Agriculture</option>
+                    <option value="Category.html?Category=Veterinary">Veterinary</option>
+                    <option value="Category.html?Category=Grocery">Grocery</option>
+                </select>
+                <div class="search-bar">
+                    <input type="text" name="Search" id="Search-products" placeholder="Search Products">
+                    <div class="search-button" id="search-button">
+                        <i class="fa-solid fa-magnifying-glass" id="Search"></i>
+                    </div>
+                </div>
+            
+            </div>
+        
+          
+          
+           
+            <div class="addtocart">
+              <a href="Addtocart.html">
+                <i class="fa-solid fa-cart-plus" id="addtocarts"></i>
+              </i></a>
+                <span class="addtocartvalue">0</span>
+        
+                <a href="Wishlist.html" class="wh"><i class="fa-solid fa-heart heart"></i></a>
+            </div>
+        
+          
+            <div class="wishlists">
+               
+            </div>
+        </nav>
+    
+            
+        
+        <div class="checkout-btn" onclick="showCheckout()">Checkout</div>
+
+    <!-- Checkout Popup -->
+    <div id="checkout-popup" class="checkout-popup">
+        <div class="checkout-content">
+            <span class="close" onclick="hideCheckout()">&times;</span>
+            <h2>Checkout</h2>
+
+            <!-- Order Summary Section -->
+            <div class="order-summary">
+                <div class="summary">
+                    <h1>Order Summary</h1>
+                </div>
+                <div class="items">
+                    <h1 class="itemspo"></h1>
+                </div>
+            </div>
+
+            <div class="cart-popup">
+                <button id="toggle-cart">
+                    <i class='bx bx-chevron-down down'></i> <!-- Down arrow icon -->
+                </button>
+                <ul class="cart-items"></ul>
+            </div>
+  
+
+            <div class="deleveries">
+                <div class="del">
+                    <h1><i class="fa-solid fa-truck" style="color: orangered; padding: 0 10px;"></i>Delivery</h1>
+                </div>
+                <div class="addtoadd">
+                    <h1> <i class="fa-solid fa-plus" style="color: blue; padding: 0 20px;"></i>Add new Address</h1>
+                </div>
+            </div>
+            <div class="pay">
+                <button>Proceed To Pay</button>
+            </div>
+        </div>
+
+        
+
+        </div>
+
+        
+
+         
+        
+        
+           
+        <div class="whislist-container">
+            <div class="whislists">
+                <div class="my-whislist">
+                    <h2>My Cart</h2>
+                </div>
+                <div class="whislits-count">
+                    <h2 class="counts">0 Items</h2>
+                </div>
+            </div>
+            </div>
+
+            <div class="whislist-row">   
+               
+                <div class="wishlist-col1">
+                    <div class="wishlist-totals">
+                        <h2 class="Subtotal">Subtotal: <span class="subtotal-value">₹ 0</span></h2>
+                        <h2 class="total">Total: <span class="total-value">₹ 0</span></h2>
+                    </div>
+                    <button class="checkouts">CHECKOUT</button>
+                </div>
+
+             </div> 
+            <div class="whislists-button">
+                <div class="continue-button">
+                    <button>Continue Shopping</button>
+                </div>
+                <div class="clear-button">
+                    <button>Clear Cart</button>
+                </div> 
+            </div>
+        </div>
+
+
+
+
+
+        <footer class="footer">
+            <div class="container">
+              <div class="footer-column">
+                <img src="Images/logo.png" alt="">
+                <p>We provide high-quality products with a focus on customer satisfaction.</p>
+              </div>
+          
+              <div class="footer-column">
+                <h3>Quick Links</h3>
+                <ul>
+                  <li><a href="#">Home</a></li>
+                  <li><a href="#">About Unlink Marketing</a></li>
+                  <li><a href="#">Grievance</a></li>
+                  <li><a href="#">Events and Training</a></li>
+                  <li><a href="#">Photo & Video Gallery</a></li>
+                  <li><a href="#">Compilance | Verify Direct Seller</a></li>
+                  <li><a href="#">Contact Us</a></li>
+                  <li><a href="#">FAQs</a></li>
+                </ul>
+              </div>
+          
+              <div class="footer-column">               
+                <h3>Follow Us</h3>
+                <h3>All-India-Customer Service-Number-8007879123</h3>
+                <div class="social-icons">
+                  <a href="#"><i class="fab fa-facebook"></i></a>
+                  <a href="#"><i class="fab fa-twitter"></i></a>
+                  <a href="#"><i class="fab fa-instagram"></i></a>
+                  <a href="#"><i class="fab fa-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          
+            <div class="footer-bottom">
+              <p>&copy; 2024 Your Website. All Rights Reserved.</p>
+            </div>
+          </footer>
+
+        <script src="Js/add.js"></script>
+        <script>
+         
+          function showCheckout() {
+              document.getElementById("checkout-popup").classList.add("show");
+              document.querySelector(".cart-items").classList.add("show");
+          }
+  
+          // Hide checkout popup
+          function hideCheckout() {
+              document.getElementById("checkout-popup").classList.remove("show");
+              document.querySelector(".cart-items").classList.remove("show");
+          }
+
+
+    
+
+      </script>
+    
+    </body>
+
+
+
+
+
+</html>
+

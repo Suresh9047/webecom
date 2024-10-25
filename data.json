@@ -1,0 +1,2035 @@
+{
+    "Unilink":[  
+      {
+        "Category": "Veterinary",
+        "Image": "Images/vetrinaryc.jpg",
+        "Products":[
+          {
+            "Id":1,
+            "Name": "Paw Mark AFS -500gm",
+            "Image": "Images/paw mark AFX-500gm.jpg",
+            "Mrp": 600,
+            "Price":480,
+            "Trend":"0",
+            "Description":"Protein | Vitamins | Minerals | Prebiotics | Probiotics | Bypass Fat,Increases Milk Yield by 10-15% according to breed.Increase SNF and Fat in Milk making Milk more valuable and economical for farmers.Helps to attain 1 calf per year.Increase overall growth of cattle's.Reduces cattle diseases probability.",
+            "Benefits":[
+              {
+                "ben1":"Increases Milk Yield by 10-15% according to breed.Increase SNF and Fat in Milk making Milk more valuable and economical for farmers.Helps to attain 1 calf per year.Increase overall growth of cattle's.Reduces cattle diseases probability.",
+                "ben2":"Increase Weight of goats making them economically moreviable.Increses milk yield and fertility yield as well",
+                "ben3":"Provides pre workout energy for races.Provide post work out energy after races.Increase skin coat and hair lustre.",
+                "ben4":"Increase weight of poultry by helping them to attain weight in 30 days only making more economical for poultry breeders.Increase Imunity and Reduces mortaility chances in birds."
+              }
+            ]
+            },
+          {            
+            "Id":2,
+            "Name": "Paw Mark TOXI GO - 500gm",
+            "Image": "Images/paw mark toxibind-500gm.png",
+            "Images":"Images/Mshoe6.1.webp",
+            "Mrp": 200,
+            "Price": 160,
+             "Trend":"1",
+             "Description":"Zeolite Minerals | Bacillus sps.Improves pond health.Adsorbs toxic gases like Carbon monoxide etc.from pond water by its unique molecular pore strures",
+             "Benefits":[
+              {
+                "ben1":"Improves pond health.Adsorbs toxic gases like Carbon monoxide etc.from pond water by its unique molecular pore strures",
+                "ben2":"Neutralizes the adsorbed toxic ammonia by ion exchangin the free ammonium.prevents bad/noxious odors from pond water by neutralizing the noxious ammonia.",
+                "ben3":"Helps to improve dissolved oxygen andphytoplankton levels (Natural food).Makes the animals fresh by relieving stress caused due to toxic gases & other pollutants.",
+                "ben4":"Helps to imoprove growth,health & immunity.Minerals helps for better health,strength & growth.Activities the gut for better nutrients absorbtion.Helps for more gut health,feeding & growth."
+              }
+
+            ]
+          },         
+          {
+            "Id":3,
+            "Name": "Paw Mark OXY - UP 500gm",
+            "Image": "Images/paw mark oxy-up 500gm.png",
+            "Images":"Images/Mshoe7.1.webp",
+            "Mrp": 800,
+            "Price": 640,
+             "Trend":"0",
+             "Description":"Sodium Per Carbonate | Sodium Per Borate,Releases dissolved oxygen levels quickly & enhances the total DO(Dissolved Oxygen) levels in the pond.Animals get complete relaxation from stress.",
+             "Benefits":[
+              {
+                "ben1":"Releases dissolved oxygen levels quickly & enhances the total DO(Dissolved Oxygen) levels in the pond.Animals get complete relaxation from stress.",
+                "ben2":"Prevents mass mortalities.Helps to reduce toxic gases/pond pollution.DOSE:Normal conditions:1-2kg per hectare."
+               
+              }
+            ]
+          },
+          {
+            "Id":4,
+            "Name": "Paw Mark AQUA - KLEAR - 500gm ",
+            "Image": "Images/paw mark AQUA-klear-500gm.png",
+            "Mrp": 1400,
+            "Price": 1120,
+             "Trend":"1",
+             "Description":"Yucca Schidigera | Bacillus Subtilis Polymyxa | Lactobacillus Acidophil Nitrosomonas | Nitrobacter,Eliminate Ammonia from the pond bottom as well as in the pond water.",
+             "Benefits":[
+              {
+                "ben1":"Eliminate Ammonia from the pond bottom as well as in the pond water.",
+                "ben2":"Relieves the stress of aquatic animals caused due to toxic gase.",
+                "ben3":"Prevents the production of toxic gases like Ammonia,Hydrogen sulphide etc. Reduces the pathogenic microbial load by competing for same food source by the probiotic AQUA-KLEAR.Helps for more freshness of pond and equatic animals there by animals feels nil stress.",
+                "ben4":"Improves feed intake and so helps for fast growth and better body weight.Reduces the sludge volume in the pond bottom by effective bio-degradation."
+              }
+            ]
+          }
+          ,
+          {
+            "Id":5,
+            "Name": "5 Paw Mark TOXIBIND - 500gm",
+            "Image":" Images/paw mark toxibind-500gm.png",
+            "Mrp": 750,
+            "Price": 600,
+            "Description":"Yucca Schidigera | Bacillus Subtilis Polymyxa | Lactobacillus Acidophil Nitrosomonas | Nitrobacter,Eliminate Ammonia from the pond bottom as well as in the pond water.",
+             "Trend":"0",  
+             "Benefits":[
+              {
+                "ben1":"Controls excess moisture in the finished feed.",
+                "ben2":"Broad spectrum mould inhibitor.",
+                "ben3":"Selective toxin adsorbant additives.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          }
+          ,
+          {
+            "Id":6,
+            "Name": "6 Paw Mark ACIGUT - 500ml",
+            "Image": "Images/paw mark ACIGUT-500ml.png",
+            "Mrp": 500,
+            "Price": 400,
+             "Trend":"1",
+             "Description":"Yucca Schidigera | Bacillus Subtilis Polymyxa | Lactobacillus Acidophil Nitrosomonas | Nitrobacter,Eliminate Ammonia from the pond bottom as well as in the pond water.",
+             "Benefits":[
+              {
+                "ben1":"As a acidifier & conditioner.",
+                "ben2":" Make gut conditioned and functional.",
+                "ben3":"Maintain optimum pH."
+               
+              }
+            ]
+          }
+          ,
+          {
+            "Id":7,
+            "Name": "7 Paw Mark k PROGEN - 500ml",
+            "Image": "Images/paw mark progen-500ml.png",
+            "Mrp": 600,
+            "Price": 480,
+             "Trend":"0",
+             "Description":"Yucca Schidigera | Bacillus Subtilis Polymyxa | Lactobacillus Acidophil Nitrosomonas | Nitrobacter,Eliminate Ammonia from the pond bottom as well as in the pond water.",
+             "Benefits":[
+              {           
+                "Cows & Buffalos":"Increases Milk Yield by 10-15% according to breed.Increase SNF and Fat in Milk making Milk more valuable and economical for farmers.Helps to attain 1 calf per year.Increase overall growth of cattle's.Reduces cattle diseases probability.",
+                "Goats,Pigs & Sheep":"Increase Weight of goats making them economically moreviable.Increses milk yield and fertility yield as well",
+                "Horses":"Provides pre workout energy for races.Provide post work out energy after races.Increase skin coat and hair lustre.",
+                "Poultry":"Increase weight of poultry by helping them to attain weight in 30 days only making more economical for poultry breeders.Increase Imunity and Reduces mortaility chances in birds."
+              }
+            ]
+          },
+          {
+            "Id":8,
+            "Name": "Paw Mark VIMIN - 500ml",
+            "Image": "Images/paw mark VIMIN-500ml.png",
+            "Mrp": 650,
+            "Price": 520,
+             "Trend":"0",
+             "Description":"Yucca Schidigera | Bacillus Subtilis Polymyxa | Lactobacillus Acidophil Nitrosomonas | Nitrobacter,Eliminate Ammonia from the pond bottom as well as in the pond water.",
+             "Benefits":[
+              {
+                "ben1":" Prevents and corrects avitaminosis and nutritional deficiency,Helps to reduce mortality.",
+                "ben2":"Work as a supportive therapy in state like Moulting,Anorexia,Fatty Liver,Early chick mortality etc.",
+                "ben3":"Improves growth rapidly.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          }
+        ]
+      },  
+      {
+        "Category": "Health Care",
+        "Image": "Images/Healthcarec.jpeg",
+        "Products": [
+          {
+            "Id":9,
+            "Name": "Uniaktiv Trendz 60 Capsule",
+            "Image": "Images/Uniaktive Trendz 60 Capsule.png",
+            "Mrp": 1000,
+            "Price": 800,
+             "Trend":"0",
+            "Description":"Yucca Schidigera | Bacillus Subtilis Polymyxa | Lactobacillus Acidophil Nitrosomonas | Nitrobacter,Eliminate Ammonia from the pond bottom as well as in the pond water.",
+             "Benefits":[
+              {
+                "ben1":"Helps to maintain function of insulin and pancreas.",
+                "ben2":"Controls blood glucose levels naturally. Controls diabetes symptoms like frequent urination, thirst and hunger etc.",
+                "ben3":"Controls diabetic complications like neuropathy & retinopathy.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":10,
+            "Name": "Uniaktiv Thyroid 60 Tablets",
+            "Image": "Images/Uniaktiv thyroid 60 tablets.png",
+            "Mrp": 1000,
+            "Price": 800,
+             "Trend":"1",
+           "Description":"Soothshekhar Rasa | Kanchanar Guggul | Punaranva | Chirayita | Ushir | Brahmi",
+             "Benefits":[
+              {
+                "ben1":"Helps Thyroid to secrete normal levels of thyroid hormones.",
+                "ben2":"Useful in reducing symptoms of Thyroid imbalance like hot flushes, irritation, mood swings, weight issues.",
+                "ben3":"Works on Pituitary gland which controls Thyroid functions.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":11,
+            "Name": "Uniaktiv  NOVA",
+            "Image": "Images/Uniaktiv Nova.png",
+            "Mrp": 600,
+            "Price": 480,
+             "Trend":"0",
+             "Description":"Noni | Spirulina | Moringa | Curcumin | Green Tea | Ganoderma | Citrus Bioflavanoids | Ashwagandha | Amla | Ginseng",
+             "Benefits":[
+              {
+                "ben1":"It contains a vast array of antioxidants, vitamins, and minerals, protien etc.",
+                "ben2":"It helps manage oxidative stress and reduces the impact of stress on cognitive function.",
+                "ben3":"It also helps to reduces cellular damage.",
+                "ben4":"It promote physical and mental health. restore the body and increase longevity."
+              }
+            ]
+          },
+          {
+            "Id":12,
+            "Name": "Uniaktiv Heart 60 Tablets",
+            "Image": "Images/Uniakiv Heart 60 Tablets.png",
+            "Mrp": 1000,
+            "Price": 800,
+             "Trend":"1",
+             "Description":"Hrudyarnav Ras | Chintamani Ras | Arjuna | Guggul | Rason | Tagr | Jatamansi | Jaharmohra | Akik Pishti | Selenium | Conezyme Q 10",
+             "Benefits":[
+              {
+                "ben1":"Helps to strengthen heart,cardiac tonic.",
+                "ben2":"Helps to reduce cholesterol and triglycerides which are bad fats and known for cardiac aliments. Helps to boost HDL i.e. good fat and improves HDL/LDL radio. Reduces blood pressure,anxiety & promotes sound sleep.",
+                "ben3":"Reduces risk of cognestive cardiac failure,heart attacks & stroke.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":13,
+            "Name": "Uniaktiv Joint DS 60 Capsule",
+            "Image": "Images/Uniaktiv Joint DS 60 capsule.png",
+            "Mrp": 1000,
+            "Price":  800,
+             "Trend":"0",
+             "Description":"Hrudyarnav Ras | Chintamani Ras | Arjuna | Guggul | Rason | Tagr | Jatamansi | Jaharmohra | Akik Pishti | Selenium | Conezyme Q 10",
+             "Benefits":[
+              {
+                "ben1":"Helps to strengthen heart,cardiac tonic.",
+                "ben2":"Helps to reduce cholesterol and triglycerides which are bad fats and known for cardiac aliments. Helps to boost HDL i.e. good fat and improves HDL/LDL radio. Reduces blood pressure,anxiety & promotes sound sleep.",
+                "ben3":"Reduces risk of cognestive cardiac failure,heart attacks & stroke.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":14,
+            "Name": "Uniaktiv Stress 60 Capsule",
+            "Image": "Images/Uniaktiv D-Stress 60 capsule.png",
+            "Mrp": 1000,
+            "Price": 800,
+             "Trend":"1",
+             "Description":"Hrudyarnav Ras | Chintamani Ras | Arjuna | Guggul | Rason | Tagr | Jatamansi | Jaharmohra | Akik Pishti | Selenium | Conezyme Q 10",
+             "Benefits":[
+              {
+                "ben1":"Helps to strengthen heart,cardiac tonic.",
+                "ben2":"Helps to reduce cholesterol and triglycerides which are bad fats and known for cardiac aliments. Helps to boost HDL i.e. good fat and improves HDL/LDL radio. Reduces blood pressure,anxiety & promotes sound sleep.",
+                "ben3":"Reduces risk of cognestive cardiac failure,heart attacks & stroke.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":15,
+            "Name": "Uniaktiv  MEN 60 Capsule",
+            "Image": "Images/Uniaktiv Men 60 Capsule.png",
+            "Images":"Images/Mshoe7.1.webp",
+            "Mrp": 1000,
+            "Price": 800,
+             "Trend":"0",
+             "Description":"Hrudyarnav Ras | Chintamani Ras | Arjuna | Guggul | Rason | Tagr | Jatamansi | Jaharmohra | Akik Pishti | Selenium | Conezyme Q 10",
+             "Benefits":[
+              {
+                "ben1":"Helps to strengthen heart,cardiac tonic.",
+                "ben2":"Helps to reduce cholesterol and triglycerides which are bad fats and known for cardiac aliments. Helps to boost HDL i.e. good fat and improves HDL/LDL radio. Reduces blood pressure,anxiety & promotes sound sleep.",
+                "ben3":"Reduces risk of cognestive cardiac failure,heart attacks & stroke.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":16,
+            "Name": "Uniaktive Women 60 Capsule",
+            "Image": "Images/Uniaktive Women 60 capsule.png",
+            "Mrp": 1000,
+            "Price": 800,
+             "Trend":"1",
+             "Description":"Hrudyarnav Ras | Chintamani Ras | Arjuna | Guggul | Rason | Tagr | Jatamansi | Jaharmohra | Akik Pishti | Selenium | Conezyme Q 10",
+             "Benefits":[
+              {
+                "ben1":"Helps to strengthen heart,cardiac tonic.",
+                "ben2":"Helps to reduce cholesterol and triglycerides which are bad fats and known for cardiac aliments. Helps to boost HDL i.e. good fat and improves HDL/LDL radio. Reduces blood pressure,anxiety & promotes sound sleep.",
+                "ben3":"Reduces risk of cognestive cardiac failure,heart attacks & stroke.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          }
+          ,
+          {
+            "Id":17,
+            "Name": "Uniaktive Pynil 60 Capsule",
+            "Image": "Images/Uniaktive Pynil 60 capsule.png",
+            "Mrp": 1000,
+            "Price": 800,
+             "Trend":"0",
+             "Description":"Hrudyarnav Ras | Chintamani Ras | Arjuna | Guggul | Rason | Tagr | Jatamansi | Jaharmohra | Akik Pishti | Selenium | Conezyme Q 10",
+             "Benefits":[
+              {
+                "ben1":"Helps to strengthen heart,cardiac tonic.",
+                "ben2":"Helps to reduce cholesterol and triglycerides which are bad fats and known for cardiac aliments. Helps to boost HDL i.e. good fat and improves HDL/LDL radio. Reduces blood pressure,anxiety & promotes sound sleep.",
+                "ben3":"Reduces risk of cognestive cardiac failure,heart attacks & stroke.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          }
+          ,
+          {
+            "Id":18,
+            "Name": " Uniaktiv Liver 60 Capsule (F)",
+            "Image": "Images/UniAktiv Liver 60 Tablets.png",
+            "Mrp": 1000,
+            "Price":800,
+             "Trend":"1",
+             "Description":"Soothshekhar Rasa | Kanchanar Guggul | Punaranva | Chirayita | Ushir | Brahmi",
+             "Benefits":[
+              {
+                "ben1":"Helps Thyroid to secrete normal levels of thyroid hormones.",
+                "ben2":"Useful in reducing symptoms of Thyroid imbalance like hot flushes, irritation, mood swings, weight issues.",
+                "ben3":"Works on Pituitary gland which controls Thyroid functions.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          }
+          ,
+          {
+            "Id":19,
+            "Name": "Uniaktiv Kidney 60 Capsule",
+            "Image": "Images/Uniaktiv Kidney 60 capsule.png",
+            "Mrp": 1000,
+            "Price": 800,
+             "Trend":"0",
+             "Description":"Soothshekhar Rasa | Kanchanar Guggul | Punaranva | Chirayita | Ushir | Brahmi",
+             "Benefits":[
+              {
+                "ben1":"Helps Thyroid to secrete normal levels of thyroid hormones.",
+                "ben2":"Useful in reducing symptoms of Thyroid imbalance like hot flushes, irritation, mood swings, weight issues.",
+                "ben3":"Works on Pituitary gland which controls Thyroid functions.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          }
+          ,
+          {
+            "Id":20,
+            "Name": "Uniaktiv Asta-Revit 60 Capsule",
+            "Image": "Images/Uniaktiv Asta-Revit 60 capsule.png",
+            "Mrp": 1800,
+            "Price": 1440,
+             "Trend":"1",
+             "Description":"Yucca Schidigera | Bacillus Subtilis Polymyxa | Lactobacillus Acidophil Nitrosomonas | Nitrobacter,Eliminate Ammonia from the pond bottom as well as in the pond water.",
+             "Benefits":[
+              {
+                "ben1":" Prevents and corrects avitaminosis and nutritional deficiency,Helps to reduce mortality.",
+                "ben2":"Work as a supportive therapy in state like Moulting,Anorexia,Fatty Liver,Early chick mortality etc.",
+                "ben3":"Improves growth rapidly.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":21,
+            "Name": "UniAktiv Shyn",
+            "Image": "Images/Uniaktiv shyn.png",
+            "Mrp": 750,
+            "Price": 600,
+             "Trend":"1",
+             "Description":"Yucca Schidigera | Bacillus Subtilis Polymyxa | Lactobacillus Acidophil Nitrosomonas | Nitrobacter,Eliminate Ammonia from the pond bottom as well as in the pond water.",
+             "Benefits":[
+              {
+                "ben1":" Prevents and corrects avitaminosis and nutritional deficiency,Helps to reduce mortality.",
+                "ben2":"Work as a supportive therapy in state like Moulting,Anorexia,Fatty Liver,Early chick mortality etc.",
+                "ben3":"Improves growth rapidly.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":22,
+            "Name": "Uniaktiv CMD 60 ml",
+            "Image": "Images/Uniaktiv CMD 60 ml.png",
+            "Mrp": 1650,
+            "Price": 1320,
+             "Trend":"1",
+             "Description":"Yucca Schidigera | Bacillus Subtilis Polymyxa | Lactobacillus Acidophil Nitrosomonas | Nitrobacter,Eliminate Ammonia from the pond bottom as well as in the pond water.",
+             "Benefits":[
+              {
+                "ben1":" Prevents and corrects avitaminosis and nutritional deficiency,Helps to reduce mortality.",
+                "ben2":"Work as a supportive therapy in state like Moulting,Anorexia,Fatty Liver,Early chick mortality etc.",
+                "ben3":"Improves growth rapidly.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":23,
+            "Name": "Uniaktive Protein For Women (F)",
+            "Image": "Images/Uniactiv Protein(F).png",
+            "Mrp": 750,
+            "Price": 600,
+             "Trend":"1",
+             "Description":"Soothshekhar Rasa | Kanchanar Guggul | Punaranva | Chirayita | Ushir | Brahmi",
+             "Benefits":[
+              {
+                "ben1":"Helps Thyroid to secrete normal levels of thyroid hormones.",
+                "ben2":"Useful in reducing symptoms of Thyroid imbalance like hot flushes, irritation, mood swings, weight issues.",
+                "ben3":"Works on Pituitary gland which controls Thyroid functions.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":24,
+            "Name": "UniAktiv Shyn",
+            "Image": "Images/Uniaktiv shyn.png",
+            "Mrp": 750,
+            "Price": 600,
+             "Trend":"1",
+             "Description":"Yucca Schidigera | Bacillus Subtilis Polymyxa | Lactobacillus Acidophil Nitrosomonas | Nitrobacter,Eliminate Ammonia from the pond bottom as well as in the pond water.",
+             "Benefits":[
+              {
+                "ben1":" Prevents and corrects avitaminosis and nutritional deficiency,Helps to reduce mortality.",
+                "ben2":"Work as a supportive therapy in state like Moulting,Anorexia,Fatty Liver,Early chick mortality etc.",
+                "ben3":"Improves growth rapidly.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":25,
+            "Name": "Uniaktive Protein For Kidz (F)",
+            "Image": "Images/Uniaktive protein for kidz(f).png",
+            "Mrp": 600,
+            "Price": 480,
+             "Trend":"1",
+             "Description":"Soothshekhar Rasa | Kanchanar Guggul | Punaranva | Chirayita | Ushir | Brahmi",
+             "Benefits":[
+              {
+                "ben1":"Helps Thyroid to secrete normal levels of thyroid hormones.",
+                "ben2":"Useful in reducing symptoms of Thyroid imbalance like hot flushes, irritation, mood swings, weight issues.",
+                "ben3":"Works on Pituitary gland which controls Thyroid functions.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":26,
+            "Name": "UniAktiv Shyn",
+            "Image": "Images/Uniaktiv shyn.png",
+            "Mrp": 750,
+            "Price": 600,
+             "Trend":"1",
+             "Description":"Yucca Schidigera | Bacillus Subtilis Polymyxa | Lactobacillus Acidophil Nitrosomonas | Nitrobacter,Eliminate Ammonia from the pond bottom as well as in the pond water.",
+             "Benefits":[
+              {
+                "ben1":" Prevents and corrects avitaminosis and nutritional deficiency,Helps to reduce mortality.",
+                "ben2":"Work as a supportive therapy in state like Moulting,Anorexia,Fatty Liver,Early chick mortality etc.",
+                "ben3":"Improves growth rapidly.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":27,
+            "Name": "Uniactiv MEN Protein (F)",
+            "Image": "Images/Uniactiv Protein(F).png",
+            "Mrp": 1000,
+            "Price": 800,
+             "Trend":"1",
+             "Description":"Yucca Schidigera | Bacillus Subtilis Polymyxa | Lactobacillus Acidophil Nitrosomonas | Nitrobacter,Eliminate Ammonia from the pond bottom as well as in the pond water.",
+             "Benefits":[
+              {
+                "ben1":" Prevents and corrects avitaminosis and nutritional deficiency,Helps to reduce mortality.",
+                "ben2":"Work as a supportive therapy in state like Moulting,Anorexia,Fatty Liver,Early chick mortality etc.",
+                "ben3":"Improves growth rapidly.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":28,
+            "Name": "Uniaktiv Vision 60 Tablets",
+            "Image": "Images/uniaktiv vision 60 Tablets.png",
+            "Mrp": 1000,
+            "Price": 800,
+             "Trend":"1",
+             "Description":"Yucca Schidigera | Bacillus Subtilis Polymyxa | Lactobacillus Acidophil Nitrosomonas | Nitrobacter,Eliminate Ammonia from the pond bottom as well as in the pond water.",
+             "Benefits":[
+              {
+                "ben1":" Prevents and corrects avitaminosis and nutritional deficiency,Helps to reduce mortality.",
+                "ben2":"Work as a supportive therapy in state like Moulting,Anorexia,Fatty Liver,Early chick mortality etc.",
+                "ben3":"Improves growth rapidly.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":29,
+            "Name": "UniAktiv Detox 60 Capsule",
+            "Image": "Images/UniAktiv Detox 60 Tablets.png",
+            "Mrp": 1000,
+            "Price": 800,
+             "Trend":"1",
+             "Description":"Yucca Schidigera | Bacillus Subtilis Polymyxa | Lactobacillus Acidophil Nitrosomonas | Nitrobacter,Eliminate Ammonia from the pond bottom as well as in the pond water.",
+             "Benefits":[
+              {
+                "ben1":" Prevents and corrects avitaminosis and nutritional deficiency,Helps to reduce mortality.",
+                "ben2":"Work as a supportive therapy in state like Moulting,Anorexia,Fatty Liver,Early chick mortality etc.",
+                "ben3":"Improves growth rapidly.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":30,
+            "Name": "Nutrimark Bio-Calmag-D 60 Tablet",
+            "Image": "Images/Nutrimark Bio-calmag-d 60 tablet.png",
+            "Mrp": 400,
+            "Price": 320,
+             "Trend":"1",
+             "Description":"Yucca Schidigera | Bacillus Subtilis Polymyxa | Lactobacillus Acidophil Nitrosomonas | Nitrobacter,Eliminate Ammonia from the pond bottom as well as in the pond water.",
+             "Benefits":[
+              {
+                "ben1":" Prevents and corrects avitaminosis and nutritional deficiency,Helps to reduce mortality.",
+                "ben2":"Work as a supportive therapy in state like Moulting,Anorexia,Fatty Liver,Early chick mortality etc.",
+                "ben3":"Improves growth rapidly.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":31,
+            "Name": "Nutrimark Haem Plus 200ml",
+            "Image": "Images/Nutrimark heam puls 200ml.png",
+            "Mrp": 220,
+            "Price": 176,
+             "Trend":"1",
+             "Description":"Soothshekhar Rasa | Kanchanar Guggul | Punaranva | Chirayita | Ushir | Brahmi",
+             "Benefits":[
+              {
+                "ben1":"Helps Thyroid to secrete normal levels of thyroid hormones.",
+                "ben2":"Useful in reducing symptoms of Thyroid imbalance like hot flushes, irritation, mood swings, weight issues.",
+                "ben3":"Works on Pituitary gland which controls Thyroid functions.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":32,
+            "Name": "Uniaktiv UniAktiv Detox 60 Capsule",
+            "Image": "Images/UniAktiv Detox 60 capsule.png",
+            "Mrp": 1000,
+            "Price": 800,
+             "Trend":"1",
+             "Description":"Soothshekhar Rasa | Kanchanar Guggul | Punaranva | Chirayita | Ushir | Brahmi",
+             "Benefits":[
+              {
+                "ben1":"Helps Thyroid to secrete normal levels of thyroid hormones.",
+                "ben2":"Useful in reducing symptoms of Thyroid imbalance like hot flushes, irritation, mood swings, weight issues.",
+                "ben3":"Works on Pituitary gland which controls Thyroid functions.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":33,
+            "Name": "Nutrimark Aci Plus",
+            "Image": "Images/Nutrimark Aci puls 200ml.png",
+            "Mrp": 220,
+            "Price": 176,
+             "Trend":"1",
+             "Description":"Yucca Schidigera | Bacillus Subtilis Polymyxa | Lactobacillus Acidophil Nitrosomonas | Nitrobacter,Eliminate Ammonia from the pond bottom as well as in the pond water.",
+             "Benefits":[
+              {
+                "ben1":" Prevents and corrects avitaminosis and nutritional deficiency,Helps to reduce mortality.",
+                "ben2":"Work as a supportive therapy in state like Moulting,Anorexia,Fatty Liver,Early chick mortality etc.",
+                "ben3":"Improves growth rapidly.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":34,
+            "Name": "Nutrimark Respi Plus 200ml ",
+            "Image": "Images/Nutrimark respi puls 200ml.png",
+            "Mrp": 220,
+            "Price": 176,
+             "Trend":"1",
+             "Description":"Soothshekhar Rasa | Kanchanar Guggul | Punaranva | Chirayita | Ushir | Brahmi",
+             "Benefits":[
+              {
+                "ben1":"Helps Thyroid to secrete normal levels of thyroid hormones.",
+                "ben2":"Useful in reducing symptoms of Thyroid imbalance like hot flushes, irritation, mood swings, weight issues.",
+                "ben3":"Works on Pituitary gland which controls Thyroid functions.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":35,
+            "Name": "Nutrimark Uri plus 200mI ",
+            "Image": "Images/Nutrimark uri puls200ml.png",
+            "Mrp": 220,
+            "Price": 176,
+             "Trend":"1",
+             "Description":"Yucca Schidigera | Bacillus Subtilis Polymyxa | Lactobacillus Acidophil Nitrosomonas | Nitrobacter,Eliminate Ammonia from the pond bottom as well as in the pond water.",
+             "Benefits":[
+              {
+                "ben1":" Prevents and corrects avitaminosis and nutritional deficiency,Helps to reduce mortality.",
+                "ben2":"Work as a supportive therapy in state like Moulting,Anorexia,Fatty Liver,Early chick mortality etc.",
+                "ben3":"Improves growth rapidly.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":36,
+            "Name": "Nutrimark Immu plus 200mI",
+            "Image": "Images/Nutrimark Immu puls 200ml.png",
+            "Mrp": 220,
+            "Price": 176,
+             "Trend":"1",
+             "Description":"Yucca Schidigera | Bacillus Subtilis Polymyxa | Lactobacillus Acidophil Nitrosomonas | Nitrobacter,Eliminate Ammonia from the pond bottom as well as in the pond water.",
+             "Benefits":[
+              {
+                "ben1":" Prevents and corrects avitaminosis and nutritional deficiency,Helps to reduce mortality.",
+                "ben2":"Work as a supportive therapy in state like Moulting,Anorexia,Fatty Liver,Early chick mortality etc.",
+                "ben3":"Improves growth rapidly.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":37,
+            "Name": "Nutrimark Respi Plus 200ml ",
+            "Image": "Images/Nutrimark respi puls 200ml.png",
+            "Mrp": 220,
+            "Price": 176,
+             "Trend":"1",
+             "Description":"Yucca Schidigera | Bacillus Subtilis Polymyxa | Lactobacillus Acidophil Nitrosomonas | Nitrobacter,Eliminate Ammonia from the pond bottom as well as in the pond water.",
+             "Benefits":[
+              {
+                "ben1":" Prevents and corrects avitaminosis and nutritional deficiency,Helps to reduce mortality.",
+                "ben2":"Work as a supportive therapy in state like Moulting,Anorexia,Fatty Liver,Early chick mortality etc.",
+                "ben3":"Improves growth rapidly.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":38,
+            "Name": "Nutrimark FLax-O 60 Tablets ",
+            "Image": "Images/Nutrimark Bio-calmag-d 60 tablet.png",
+            "Mrp": 400,
+            "Price": 320,
+             "Trend":"1",
+             "Description":"Yucca Schidigera | Bacillus Subtilis Polymyxa | Lactobacillus Acidophil Nitrosomonas | Nitrobacter,Eliminate Ammonia from the pond bottom as well as in the pond water.",
+             "Benefits":[
+              {
+                "ben1":" Prevents and corrects avitaminosis and nutritional deficiency,Helps to reduce mortality.",
+                "ben2":"Work as a supportive therapy in state like Moulting,Anorexia,Fatty Liver,Early chick mortality etc.",
+                "ben3":"Improves growth rapidly.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          },
+          {
+            "Id":39,
+            "Name": "Nutrimark Tulsi Drops 30 ml",
+            "Image": "Images/Nutrimark Bio-calmag-d 60 tablet.png",
+            "Mrp": 250,
+            "Price": 200,
+             "Trend":"1",
+             "Description":"Soothshekhar Rasa | Kanchanar Guggul | Punaranva | Chirayita | Ushir | Brahmi",
+             "Benefits":[
+              {
+                "ben1":"Helps Thyroid to secrete normal levels of thyroid hormones.",
+                "ben2":"Useful in reducing symptoms of Thyroid imbalance like hot flushes, irritation, mood swings, weight issues.",
+                "ben3":"Works on Pituitary gland which controls Thyroid functions.",
+                "ben4":"Prevents multi-function of pathogenic backteria in the Gut.DOSE:"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Category": "Personal Care",
+        "Image": "Images/Personalcarec.jpeg",
+        "Products": [
+          {
+            "Id":40,
+            "Name": "Ocean - Fresh Antiageing cream V 1",
+            "Image": "Images/oceanfresh antiageing cream v1.png",
+            "Mrp": 300,
+            "Price": 240,
+             "Trend":"0",
+             "Description":"Dead Sea Minerals | Ginseng | Almond Oil | Avacado Oil | Argan Oil",
+             "Benefits":[
+              {
+                "ben1":"Reduces fine lines & wrinkles. Lightens dark spots & blemihes.",
+                "ben2":"Protecting the skin from sun damage.",
+                "ben3":"Nourishing the skin to make it radiant.",
+                "ben4":"Helps in regeneration of skin cells."
+              }
+            ]
+          },
+          {
+            "Id":41,
+            "Name": "Ocean - Fresh Nourishing Shampoo - 500ml",
+            "Image": "Images/Ocean fresh-Nourishing shampoo 500ml.png",
+            "Mrp": 400,
+            "Price": 360,
+             "Trend":"1",
+             "Description":"Dead Sea Minerals | Soya Protection | Keratin",
+             "Benefits":[
+              {
+                "ben1":"Helps to cleanse,nourish,repair & restore hair.",
+                "ben2":"Detangles hair and provides smooth,soft shiny and voluminous hair.Strengthens hair follicles and stops hairfall.Hydrates,strenthens and repairs hair to fight hair loss naturally.",
+                "ben3":"Reinvigorates hair follicles,support healthy scalp,nourishers hair,products from Uv rays.",
+                "ben4":"Moisturizing formula helps prevent breakage & stop frizz."
+              }
+            ]
+          },
+          {
+            "Id":42,
+            "Name": "Ocean - Fresh Sun Screen",
+            "Image": "Images/ocean fresh sun screen.png",
+            "Mrp": 275,
+            "Price": 220,         
+             "Trend":"0",
+             "Description":"Dead Sea Minerals | White Curcumin | Calendula",
+             "Benefits":[
+              {
+                "ben1":"Helps is creating a barrier on skin due to which sunrays cannot penetrate and cause damage.It inhibits the production of melonin pigment thus giving you fairer skin.It products you against sun-burns and sun tan.",
+                "ben2":"It shields you from both the harmful ultraviolet radiations-UVA and UVB.It also has moisturizing,antioxident and anti- inflammatory properties.",
+                "ben3":"It is very helpful for smoothing skin rashes & irritation."
+              
+              }
+            ]
+          },
+          {
+            "Id":43,
+            "Name": " Ocean- Fresh Anti Dandruff Shampoo 500ml",
+            "Image": "Images/ocean fresh-anti dandruff shampoo 500gm.png",
+            "Mrp": 400,
+            "Price": 320,
+             "Trend":"1",
+             "Description":"Dead Sea Minerals | Soya Protection | Keratin",
+             "Benefits":[
+              {
+                "ben1":"Helps to cleanse,nourish,repair & restore hair.",
+                "ben2":"Detangles hair and provides smooth,soft shiny and voluminous hair.Strengthens hair follicles and stops hairfall.Hydrates,strenthens and repairs hair to fight hair loss naturally.",
+                "ben3":"Reinvigorates hair follicles,support healthy scalp,nourishers hair,products from Uv rays.",
+                "ben4":"Moisturizing formula helps prevent breakage & stop frizz."
+              }
+            ]
+          },
+          {
+            "Id":44,
+            "Name": "Ocean-Fresh Under Eye Gel",
+            "Image": "Images/ocean fresh under eye gel 20 ml.png",
+            "Mrp": 200,
+            "Price": 160,
+             "Trend":"0",
+             "Description":"Dead Sea Minerals | Soya Protection | Keratin",
+             "Benefits":[         
+              {                   
+                "ben1":"Helps to cleanse,nourish,repair & restore hair.",
+                "ben2":"Detangles hair and provides smooth,soft shiny and voluminous hair.Strengthens hair follicles and stops hairfall.Hydrates,strenthens and repairs hair to fight hair loss naturally.",
+                "ben3":"Reinvigorates hair follicles,support healthy scalp,nourishers hair,products from Uv rays.",
+                "ben4":"Moisturizing formula helps prevent breakage & stop frizz."
+              }
+            ]
+          },
+          {
+            "Id":30,
+            "Name": "Ocean-Fresh Hair Removal Cream 50gm",
+            "Image": "Images/ocean freshhair removal cream 50 gm.png",
+           
+            "Mrp": 160,
+            "Price": 128,
+             "Trend":"1",
+             "Description":"Dead Sea Minerals | Biotin | Olive Oil | Wheatgerm Oil | Saw Palmetto",
+             "Benefits":[         
+              {                   
+                "ben1":"Helps to Nourish Scalp & Hair follicles & Promotes hair Growth.",
+                "ben2":"Restores Lustre in hair & used for styling..Hydrates,strenthens and repairs hair to fight hair loss naturally.",
+                "ben3":"Reinvigorates hair follicles,support healthy scalp,nourishers hair,products from Uv rays.",
+                "ben4":"Moisturizing formula helps prevent breakage & stop frizz."
+              }
+            ]
+          },
+          {
+            "Id":31,
+            "Name": "Ocean-Fresh Shaving Cream 100gm",
+            "Image": "Images/ocean fresh shaving cream 100g.png",
+          
+            "Mrp": 200,
+            "Price": 160,
+             "Trend":"0",
+             "Description":"Dead Sea Minerals | Biotin | Olive Oil | Wheatgerm Oil | Saw Palmetto",
+             "Benefits":[         
+              {                   
+                "ben1":"Helps to Nourish Scalp & Hair follicles & Promotes hair Growth.",
+                "ben2":"Restores Lustre in hair & used for styling..Hydrates,strenthens and repairs hair to fight hair loss naturally.",
+                "ben3":"Reinvigorates hair follicles,support healthy scalp,nourishers hair,products from Uv rays.",
+                "ben4":"Moisturizing formula helps prevent breakage & stop frizz."
+              }
+            ]
+          },
+          {
+            "Id":32,
+            "Name": "Ocean-Fresh Face Pack 100gm",
+            "Image": "Images/ocean fresh face pack 100gm.png",
+          
+            "Mrp": 250,
+            "Price": 200,
+             "Trend":"1",
+             "Description":"Dead Sea Minerals | Soya Protection | Keratin",
+             "Benefits":[         
+              {                   
+                "ben1":"Helps to cleanse,nourish,repair & restore hair.",
+                "ben2":"Detangles hair and provides smooth,soft shiny and voluminous hair.Strengthens hair follicles and stops hairfall.Hydrates,strenthens and repairs hair to fight hair loss naturally.",
+                "ben3":"Reinvigorates hair follicles,support healthy scalp,nourishers hair,products from Uv rays.",
+                "ben4":"Moisturizing formula helps prevent breakage & stop frizz."
+              }
+            ]
+          }
+          ,
+          {
+            "Id":33,
+            "Name": "Ocean-Fresh Cool Cool Oil 100ml",
+            "Image": "Images/Ocean fresh cool cool oil 100ml.png",
+         
+            "Mrp": 175,
+            "Price": 140,
+             "Trend":"0",
+             "Description":"Dead Sea Minerals | White Curcumin | Calendula",
+             "Benefits":[
+              {
+                "ben1":"Helps is creating a barrier on skin due to which sunrays cannot penetrate and cause damage.It inhibits the production of melonin pigment thus giving you fairer skin.It products you against sun-burns and sun tan.",
+                "ben2":"It shields you from both the harmful ultraviolet radiations-UVA and UVB.It also has moisturizing,antioxident and anti- inflammatory properties.",
+                "ben3":"It is very helpful for smoothing skin rashes & irritation."
+              
+              }
+            ]
+          }
+          ,
+          {
+            "Id":34,
+            "Name": "Ocean-Fresh Hair Cream 100gm ",
+            "Image": "Images/ocean fresh hair cream 100gm.png",
+           
+            "Mrp": 360,
+            "Price": 288,
+             "Trend":"1"
+          }
+          ,
+          {
+            "Id":35,
+            "Name": "Ocean-Fresh Face Toner 100 ml",
+            "Image": "Images/Ocean fresh face toner 100ml.png",
+          
+            "Mrp": 250,
+            "Price": 200,
+             "Trend":"0",
+             "Description":"Dead Sea Minerals | White Curcumin | Calendula",
+             "Benefits":[
+              {
+                "ben1":"Helps is creating a barrier on skin due to which sunrays cannot penetrate and cause damage.It inhibits the production of melonin pigment thus giving you fairer skin.It products you against sun-burns and sun tan.",
+                "ben2":"It shields you from both the harmful ultraviolet radiations-UVA and UVB.It also has moisturizing,antioxident and anti- inflammatory properties.",
+                "ben3":"It is very helpful for smoothing skin rashes & irritation."
+              
+              }
+            ]
+          }
+          ,
+          {
+            "Id":36,
+            "Name": "Ocean-Fresh Peel off facemasks 100gm ",
+            "Image": "Images/Ocean fresh anti-pimple cream 60gm.png",
+           
+            "Mrp": 250,
+            "Price": 200,
+             "Trend":"1",
+             "Description":"Dead Sea Minerals | White Curcumin | Calendula",
+             "Benefits":[
+              {
+                "ben1":"Helps is creating a barrier on skin due to which sunrays cannot penetrate and cause damage.It inhibits the production of melonin pigment thus giving you fairer skin.It products you against sun-burns and sun tan.",
+                "ben2":"It shields you from both the harmful ultraviolet radiations-UVA and UVB.It also has moisturizing,antioxident and anti- inflammatory properties.",
+                "ben3":"It is very helpful for smoothing skin rashes & irritation."
+              
+              }
+            ]
+          },
+          {
+            "Id":37,
+            "Name": "Ocean-Fresh Hair Cream 100gm 360 288",
+            "Image": "Images/ocean fresh hair cream 100gm.png",
+         
+            "Mrp": 360,
+            "Price": 288,
+             "Trend":"1"
+          },
+          {
+            "Id":38,
+            "Name": "Ocean-Fresh Face Toner 100 ml",
+            "Image": "Images/Ocean fresh face toner 100ml.png",
+         
+            "Mrp": 250,
+            "Price": 200,
+             "Trend":"1",
+             "Description":"Dead Sea Minerals | White Curcumin | Calendula",
+             "Benefits":[
+              {
+                "ben1":"Helps is creating a barrier on skin due to which sunrays cannot penetrate and cause damage.It inhibits the production of melonin pigment thus giving you fairer skin.It products you against sun-burns and sun tan.",
+                "ben2":"It shields you from both the harmful ultraviolet radiations-UVA and UVB.It also has moisturizing,antioxident and anti- inflammatory properties.",
+                "ben3":"It is very helpful for smoothing skin rashes & irritation."
+              
+              }
+            ]
+          },
+          {
+            "Id":39,
+            "Name": "Ocean-Fresh Peel off facemasks 100gm",
+            "Image": "Images/oceanfresh antiageing cream v1.png",
+           
+            "Mrp": 250,
+            "Price": 200,
+             "Trend":"1",
+             "Description":"Dead Sea Minerals | White Curcumin | Calendula",
+             "Benefits":[
+              {
+                "ben1":"Helps is creating a barrier on skin due to which sunrays cannot penetrate and cause damage.It inhibits the production of melonin pigment thus giving you fairer skin.It products you against sun-burns and sun tan.",
+                "ben2":"It shields you from both the harmful ultraviolet radiations-UVA and UVB.It also has moisturizing,antioxident and anti- inflammatory properties.",
+                "ben3":"It is very helpful for smoothing skin rashes & irritation."
+              
+              }
+            ]
+          },
+          {
+            "Id":40,
+            "Name": "Ocean Fresh Anti - Pimple Cream 60gm",
+            "Image": "Images/Ocean fresh anti-pimple cream 60gm.png",
+          
+            "Mrp": 180,
+            "Price": 144,
+             "Trend":"1",
+             "Description":"Dead Sea Minerals | White Curcumin | Calendula",
+             "Benefits":[
+              {
+                "ben1":"Helps is creating a barrier on skin due to which sunrays cannot penetrate and cause damage.It inhibits the production of melonin pigment thus giving you fairer skin.It products you against sun-burns and sun tan.",
+                "ben2":"It shields you from both the harmful ultraviolet radiations-UVA and UVB.It also has moisturizing,antioxident and anti- inflammatory properties.",
+                "ben3":"It is very helpful for smoothing skin rashes & irritation."
+              
+              }
+            ]
+          },
+          {
+            "Id":41,
+            "Name": "Ocean Fresh Anti Septic Cream 60gm",
+            "Image": "Images/ocean fresh anti septic cream60gm.png",
+          
+            "Mrp": 180,
+            "Price": 144,
+             "Trend":"1",
+             "Description":"Dead Sea Minerals | White Curcumin | Calendula",
+             "Benefits":[
+              {
+                "ben1":"Helps is creating a barrier on skin due to which sunrays cannot penetrate and cause damage.It inhibits the production of melonin pigment thus giving you fairer skin.It products you against sun-burns and sun tan.",
+                "ben2":"It shields you from both the harmful ultraviolet radiations-UVA and UVB.It also has moisturizing,antioxident and anti- inflammatory properties.",
+                "ben3":"It is very helpful for smoothing skin rashes & irritation."
+              
+              }
+            ]
+          },
+          {
+            "Id":42,
+            "Name": "Ocean Fresh Body Lotion 250 ml",
+            "Image": "Images/Ocean Fresh body lotion 250 ml.png",
+           
+            "Mrp": 275,
+            "Price": 200,
+             "Trend":"1",
+             "Description":"Dead Sea Minerals | White Curcumin | Calendula",
+             "Benefits":[
+              {
+                "ben1":"Helps is creating a barrier on skin due to which sunrays cannot penetrate and cause damage.It inhibits the production of melonin pigment thus giving you fairer skin.It products you against sun-burns and sun tan.",
+                "ben2":"It shields you from both the harmful ultraviolet radiations-UVA and UVB.It also has moisturizing,antioxident and anti- inflammatory properties.",
+                "ben3":"It is very helpful for smoothing skin rashes & irritation."
+              
+              }
+            ]
+          },
+          {
+            "Id":43,
+            "Name": "Ocean Fresh Charcoal Face wash 100ml",
+            "Image": "Images/Ocean Fresh charcoal face wash 100ml.png",
+           
+            "Mrp": 180,
+            "Price": 144,
+             "Trend":"1",
+             "Description":"Dead Sea Minerals | White Curcumin | Calendula",
+             "Benefits":[
+              {
+                "ben1":"Helps is creating a barrier on skin due to which sunrays cannot penetrate and cause damage.It inhibits the production of melonin pigment thus giving you fairer skin.It products you against sun-burns and sun tan.",
+                "ben2":"It shields you from both the harmful ultraviolet radiations-UVA and UVB.It also has moisturizing,antioxident and anti- inflammatory properties.",
+                "ben3":"It is very helpful for smoothing skin rashes & irritation."
+              
+              }
+            ]
+          },
+          {
+            "Id":44,
+            "Name": "Ocean Fresh Night Cream 60gm",
+            "Image": "Images/ocean fresh night cream 60 gm.png",
+           
+            "Mrp": 150,
+            "Price": 120,
+             "Trend":"1",
+             "Description":"Dead Sea Minerals | White Curcumin | Calendula",
+             "Benefits":[
+              {
+                "ben1":"Helps is creating a barrier on skin due to which sunrays cannot penetrate and cause damage.It inhibits the production of melonin pigment thus giving you fairer skin.It products you against sun-burns and sun tan.",
+                "ben2":"It shields you from both the harmful ultraviolet radiations-UVA and UVB.It also has moisturizing,antioxident and anti- inflammatory properties.",
+                "ben3":"It is very helpful for smoothing skin rashes & irritation."
+              
+              }
+            ]
+          },
+          {
+            "Id":45,
+            "Name": "Ocean Fresh Night Cream 60 gm",
+            "Image": "Images/ocean fresh night cream 60 gm.png",
+           
+            "Price": 120,
+             "Trend":"1",
+             "Description":"Dead Sea Minerals | Soya Protection | Keratin",
+             "Benefits":[         
+              {                   
+                "ben1":"Helps to cleanse,nourish,repair & restore hair.",
+                "ben2":"Detangles hair and provides smooth,soft shiny and voluminous hair.Strengthens hair follicles and stops hairfall.Hydrates,strenthens and repairs hair to fight hair loss naturally.",
+                "ben3":"Reinvigorates hair follicles,support healthy scalp,nourishers hair,products from Uv rays.",
+                "ben4":"Moisturizing formula helps prevent breakage & stop frizz."
+              }
+            ]
+          },
+          {
+            "Id":46,
+            "Name": "Ocean Fresh Day Cream 60gm",
+            "Image": "Images/Ocean fresh day cream 60gm.png",
+          
+            "Mrp": 150,
+            "Price": 120,
+             "Trend":"1",
+             "Description":"Dead Sea Minerals | White Curcumin | Calendula",
+             "Benefits":[
+              {
+                "ben1":"Helps is creating a barrier on skin due to which sunrays cannot penetrate and cause damage.It inhibits the production of melonin pigment thus giving you fairer skin.It products you against sun-burns and sun tan.",
+                "ben2":"It shields you from both the harmful ultraviolet radiations-UVA and UVB.It also has moisturizing,antioxident and anti- inflammatory properties.",
+                "ben3":"It is very helpful for smoothing skin rashes & irritation."
+              
+              }
+            ]
+          },
+          {
+            "Id":47,
+            "Name": "Ocean Fresh BB Cream 20gm",
+            "Image": "Images/ocean fresh night cream 60 gm.png",
+            
+            "Mrp": 175,
+            "Price": 140,
+             "Trend":"1",  
+             "Description":"Dead Sea Minerals | White Curcumin | Calendula",
+             "Benefits":[
+              {
+                "ben1":"Helps is creating a barrier on skin due to which sunrays cannot penetrate and cause damage.It inhibits the production of melonin pigment thus giving you fairer skin.It products you against sun-burns and sun tan.",
+                "ben2":"It shields you from both the harmful ultraviolet radiations-UVA and UVB.It also has moisturizing,antioxident and anti- inflammatory properties.",
+                "ben3":"It is very helpful for smoothing skin rashes & irritation."
+              
+              }
+            ]
+
+          },
+          {
+            "Id":48,
+            "Name": "Ocean Fresh AquaMarine Soap 100gm",
+            "Image": "Images/Ocean Fresh -AquaMarine soap 100gm.png",
+            "Mrp": 40,
+            "Price": 32,
+             "Trend":"1",
+             "Description":"Dead Sea Minerals | White Curcumin | Calendula",
+             "Benefits":[
+              {
+                "ben1":"Helps is creating a barrier on skin due to which sunrays cannot penetrate and cause damage.It inhibits the production of melonin pigment thus giving you fairer skin.It products you against sun-burns and sun tan.",
+                "ben2":"It shields you from both the harmful ultraviolet radiations-UVA and UVB.It also has moisturizing,antioxident and anti- inflammatory properties.",
+                "ben3":"It is very helpful for smoothing skin rashes & irritation."
+              
+              }
+            ]
+          },
+          {
+            "Id":49,
+            "Name": "Ocean Fresh Face Wash For Oily Skin 100 ml 160 128",
+            "Image": "Images/ocean fresh face wash for oily skin 100ml.png",
+            "Mrp": 160,
+            "Price": 128,
+             "Trend":"1",
+             "Description":"Dead Sea Minerals | White Curcumin | Calendula",
+             "Benefits":[
+              {
+                "ben1":"Helps is creating a barrier on skin due to which sunrays cannot penetrate and cause damage.It inhibits the production of melonin pigment thus giving you fairer skin.It products you against sun-burns and sun tan.",
+                "ben2":"It shields you from both the harmful ultraviolet radiations-UVA and UVB.It also has moisturizing,antioxident and anti- inflammatory properties.",
+                "ben3":"It is very helpful for smoothing skin rashes & irritation."
+              
+              }
+            ]
+          },
+          {
+            "Id":50,
+            "Name": "Ocean Fresh Face Wash For Normal & Dry Skin 100 ml",
+            "Image": "Images/Ocean fresh face wash for normal & dry skin 100ml.png",
+            "Mrp": 160,
+            "Price": 128,
+             "Trend":"1",
+             "Description":"Dead Sea Minerals | White Curcumin | Calendula",
+             "Benefits":[
+              {
+                "ben1":"Helps is creating a barrier on skin due to which sunrays cannot penetrate and cause damage.It inhibits the production of melonin pigment thus giving you fairer skin.It products you against sun-burns and sun tan.",
+                "ben2":"It shields you from both the harmful ultraviolet radiations-UVA and UVB.It also has moisturizing,antioxident and anti- inflammatory properties.",
+                "ben3":"It is very helpful for smoothing skin rashes & irritation."
+              
+              }
+            ]
+          },
+          {
+            "Id":51,
+            "Name": "Ocean Fresh Face Scrub 100 gm ",
+            "Image": "Images/Ocean fresh face scrub 100 gm.png",
+            "Mrp": 180,
+            "Price": 144,
+             "Trend":"1",
+             "Description":"Dead Sea Minerals | Soya Protection | Keratin",
+             "Benefits":[         
+              {                   
+                "ben1":"Helps to cleanse,nourish,repair & restore hair.",
+                "ben2":"Detangles hair and provides smooth,soft shiny and voluminous hair.Strengthens hair follicles and stops hairfall.Hydrates,strenthens and repairs hair to fight hair loss naturally.",
+                "ben3":"Reinvigorates hair follicles,support healthy scalp,nourishers hair,products from Uv rays.",
+                "ben4":"Moisturizing formula helps prevent breakage & stop frizz."
+              }
+            ]
+          },
+          {
+            "Id":52,
+            "Name": "27-Ocean Fresh D-Tan Facial Kit - 260 gm",
+            "Image": "Images/ocean fresh D-tanfacial kit-260gm.png",
+            "Mrp": 1200,
+            "Price": 960,
+             "Trend":"1",
+             "Description":"Dead Sea Minerals | White Curcumin | Calendula",
+             "Benefits":[
+              {
+                "ben1":"Helps is creating a barrier on skin due to which sunrays cannot penetrate and cause damage.It inhibits the production of melonin pigment thus giving you fairer skin.It products you against sun-burns and sun tan.",
+                "ben2":"It shields you from both the harmful ultraviolet radiations-UVA and UVB.It also has moisturizing,antioxident and anti- inflammatory properties.",
+                "ben3":"It is very helpful for smoothing skin rashes & irritation."
+              
+              }
+            ]
+          },
+          {
+            "Id":53,
+            "Name": "Myristika Myristika Foot Cream ",
+            "Image": "Images/Myristika Foot cream.png",
+            "Mrp": 180,
+            "Price": 144,
+             "Trend":"1",
+             "Description":"Dead Sea Minerals | White Curcumin | Calendula",
+             "Benefits":[
+              {
+                "ben1":"Helps is creating a barrier on skin due to which sunrays cannot penetrate and cause damage.It inhibits the production of melonin pigment thus giving you fairer skin.It products you against sun-burns and sun tan.",
+                "ben2":"It shields you from both the harmful ultraviolet radiations-UVA and UVB.It also has moisturizing,antioxident and anti- inflammatory properties.",
+                "ben3":"It is very helpful for smoothing skin rashes & irritation."
+              
+              }
+            ]
+          },
+          {
+            "Id":54,
+            "Name": "Myristika Hair Oil ",
+            "Image": "Images/Myristika pain relief gel.png",
+            "Mrp": 600,
+            "Price": 480,
+             "Trend":"1",
+             "Description":"Dead Sea Minerals | White Curcumin | Calendula",
+             "Benefits":[
+              {
+                "ben1":"Helps is creating a barrier on skin due to which sunrays cannot penetrate and cause damage.It inhibits the production of melonin pigment thus giving you fairer skin.It products you against sun-burns and sun tan.",
+                "ben2":"It shields you from both the harmful ultraviolet radiations-UVA and UVB.It also has moisturizing,antioxident and anti- inflammatory properties.",
+                "ben3":"It is very helpful for smoothing skin rashes & irritation."
+              
+              }
+            ]
+          },
+          {
+            "Id":55,
+            "Name": "Myristika Pain Relief Gel ",
+            "Image": "Images/Myristika pain relief gel.png",
+            "Mrp": 250,
+            "Price": 200,
+             "Trend":"1",
+             "Description":"Dead Sea Minerals | White Curcumin | Calendula",
+             "Benefits":[
+              {
+                "ben1":"Helps is creating a barrier on skin due to which sunrays cannot penetrate and cause damage.It inhibits the production of melonin pigment thus giving you fairer skin.It products you against sun-burns and sun tan.",
+                "ben2":"It shields you from both the harmful ultraviolet radiations-UVA and UVB.It also has moisturizing,antioxident and anti- inflammatory properties.",
+                "ben3":"It is very helpful for smoothing skin rashes & irritation."
+              
+              }
+            ]
+          },
+          {
+            "Id":55,
+            "Name": "Myristika Herbal Toothpaste",
+            "Image": "Images/Myristika Herbal Toothpaste.png",
+            "Mrp": 150,
+            "Price": 120,
+             "Trend":"1",
+             "Description":"Dead Sea Minerals | Soya Protection | Keratin",
+             "Benefits":[         
+              {                   
+                "ben1":"Helps to cleanse,nourish,repair & restore hair.",
+                "ben2":"Detangles hair and provides smooth,soft shiny and voluminous hair.Strengthens hair follicles and stops hairfall.Hydrates,strenthens and repairs hair to fight hair loss naturally.",
+                "ben3":"Reinvigorates hair follicles,support healthy scalp,nourishers hair,products from Uv rays.",
+                "ben4":"Moisturizing formula helps prevent breakage & stop frizz."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Category": "Agriculture",
+        "Image": "Images/Agriculture.jpg",
+        "Products": [
+            {
+              "Id":40,
+              "Name": "Unimark Uni-Spase 100 ml",
+              "Image": "Images/Unimark Uni-Spase 100ml.png",
+              "Mrp": 325,
+              "Price": 260,
+              "Description":"Potash Mobilizing Bacteria(CFU Min 1 x 102cell/ml)",
+            "Benefits":[
+              {
+                "ben1":"UNIFERT-K is a liquid bio-fertilizer made of pure culture of naturally occuring soil borne potash Mobilizing bacteria (KMB).",
+                "ben2":"When applied to soil, Potash Mobilizing Bacteria helps to mobilize potassium fixed in soil.",
+                "ben3":"This mobilize potassium is easily avilable to the crops."
+               
+              }
+            ]
+              
+            },
+            {
+              "Id":41,
+              "Name": "Unimark UniRich–500 ml",
+              "Image": "Images/UniRich-500ml.png",
+              "Mrp": 750,
+              "Price": 600,
+              "Description":"Protein | Vitamins | Minerals | Prebiotics | Probiotics | Bypass Fat,Increases Milk Yield by 10-15% according to breed.Increase SNF and Fat in Milk making Milk more valuable and economical for farmers.Helps to attain 1 calf per year.Increase overall growth of cattle's.Reduces cattle diseases probability.",
+            "Benefits":[
+              {
+                "ben1":"Increases Milk Yield by 10-15% according to breed.Increase SNF and Fat in Milk making Milk more valuable and economical for farmers.Helps to attain 1 calf per year.Increase overall growth of cattle's.Reduces cattle diseases probability.",
+                "ben2":"Increase Weight of goats making them economically moreviable.Increses milk yield and fertility yield as well",
+                "ben3":"Provides pre workout energy for races.Provide post work out energy after races.Increase skin coat and hair lustre.",
+                "ben4":"Increase weight of poultry by helping them to attain weight in 30 days only making more economical for poultry breeders.Increase Imunity and Reduces mortaility chances in birds."
+              }
+            ]
+             
+            },
+            {
+              "Id":42,
+              "Name": "Unimark UniRich – 250 ml 400 320",
+              "Image": "Images/UniRich-250ml.png",
+              "Mrp": 400,
+              "Price": 320,
+               "Trend":"0",
+               "Description":"Protein | Vitamins | Minerals | Prebiotics | Probiotics | Bypass Fat,Increases Milk Yield by 10-15% according to breed.Increase SNF and Fat in Milk making Milk more valuable and economical for farmers.Helps to attain 1 calf per year.Increase overall growth of cattle's.Reduces cattle diseases probability.",
+            "Benefits":[
+              {
+                "ben1":"Increases Milk Yield by 10-15% according to breed.Increase SNF and Fat in Milk making Milk more valuable and economical for farmers.Helps to attain 1 calf per year.Increase overall growth of cattle's.Reduces cattle diseases probability.",
+                "ben2":"Increase Weight of goats making them economically moreviable.Increses milk yield and fertility yield as well",
+                "ben3":"Provides pre workout energy for races.Provide post work out energy after races.Increase skin coat and hair lustre.",
+                "ben4":"Increase weight of poultry by helping them to attain weight in 30 days only making more economical for poultry breeders.Increase Imunity and Reduces mortaility chances in birds."
+              }
+            ]
+            },
+            {
+              "Id":43,
+              "Name": "Unimark UniRich – 100 ml",
+              "Image": "Images/UniRich-100ML.png",
+              "Mrp": 250,
+              "Price": 200,
+               "Trend":"1",
+               "Description":"Phosphate Solubilizing Bacteria(CFU Min 1 x 102cell/ml)",
+            "Benefits":[
+              {
+                "ben1":"UNIFERT-P is a liquid bio-fertilizer made of pure culture of naturally occurring soil-borne phosphorus solubilizing bacteria(PSB).",
+                "ben2":"When applied to the soil, the bacteria multiples & produces organic acids & convers insoluble form & makes them available to plants."
+              
+              }
+            ]
+            },
+            {
+              "Id":44,
+              "Name": "Unimark UNIRICH - 1 LTR. 1500",
+              "Image": "Images/Unimark UNIRICH-1 LTR.png",
+              "Mrp": 1500,
+              "Price": 1200,
+               "Trend":"0",
+               "Description":"Phosphate Solubilizing Bacteria(CFU Min 1 x 102cell/ml)",
+               "Benefits":[
+                 {
+                   "ben1":"UNIFERT-P is a liquid bio-fertilizer made of pure culture of naturally occurring soil-borne phosphorus solubilizing bacteria(PSB).",
+                   "ben2":"When applied to the soil, the bacteria multiples & produces organic acids & convers insoluble form & makes them available to plants."
+                 
+                 }
+               ]
+            },
+            {
+              "Id":30,
+              "Name": "Unimark Unimark UNISOIL -1 LTR. V1",
+              "Image": "Images/Unimark UNISOIL-1 LTR V1.png",
+             
+              "Mrp": 800,
+              "Price": 640,
+               "Trend":"1",
+               "Description":"Mono-Silicic Acid| Potash",
+               "Benefits":[
+                 {
+                   "ben1":"Makes silicon available to plant in bloavailble form",
+                   "ben2":"Reduces biotic & abiotic stress on crops",
+                   "ben3":"Enhances plants ability to resist metal toxification",
+                   "ben4":"Strengthens stems of crops so that they don't collapse due to heavy rain & wind. Reduces stem breakage"
+                 }
+               ]
+            },
+            {
+              "Id":31,
+              "Name": "Unimark UniSoil – 500 ml",
+              "Image": "Images/Unisoil-500 ml.png",
+              "Mrp": 400,
+              "Price": 320,
+               "Trend":"0",
+               "Description":"Mono-Silicic Acid| Potash",
+            "Benefits":[
+              {
+                "ben1":"Makes silicon available to plant in bloavailble form",
+                "ben2":"Reduces biotic & abiotic stress on crops",
+                "ben3":"Enhances plants ability to resist metal toxification",
+                "ben4":"Strengthens stems of crops so that they don't collapse due to heavy rain & wind. Reduces stem breakage"
+              }
+            ]
+            },
+            {
+              "Id":32,
+              "Name": "Unimark UNISOIL -1 LTR.",
+              "Image": "Images/Unimark UNISOIL-1 LTR.png",
+              "Mrp": 750,
+              "Price": 600,
+               "Trend":"1",
+              "Description":"Azotobacter Sp.(CFC Min 1 x 102 cell/ml)",
+            "Benefits":[
+              {
+                "ben1":"UNIFERT AZO-Nwhen applied to soil multiples & absorbs the atmospheric nitrogen and fixes the same in the root zone of soil. It helps to plant for rapid growth and yield.",
+                "ben2":"Useful for organic farming.",
+                "ben4":"Increase weight of poultry by helping them to attain weight in 30 days only making more economical for poultry breeders.Increase Imunity and Reduces mortaility chances in birds."
+              }
+            ]
+            }
+            ,
+            {
+              "Id":33,
+              "Name": "Ocean-Fresh Cool Cool Oil 100ml",
+              "Image": "Images/Ocean fresh cool cool oil 100ml.png",
+              "Mrp": 175,
+              "Price": 140,
+               "Trend":"0",
+               "Description":"Protein | Vitamins | Minerals | Prebiotics | Probiotics | Bypass Fat,Increases Milk Yield by 10-15% according to breed.Increase SNF and Fat in Milk making Milk more valuable and economical for farmers.Helps to attain 1 calf per year.Increase overall growth of cattle's.Reduces cattle diseases probability.",
+            "Benefits":[
+              {
+                "ben1":"Increases Milk Yield by 10-15% according to breed.Increase SNF and Fat in Milk making Milk more valuable and economical for farmers.Helps to attain 1 calf per year.Increase overall growth of cattle's.Reduces cattle diseases probability.",
+                "ben2":"Increase Weight of goats making them economically moreviable.Increses milk yield and fertility yield as well",
+                "ben3":"Provides pre workout energy for races.Provide post work out energy after races.Increase skin coat and hair lustre.",
+                "ben4":"Increase weight of poultry by helping them to attain weight in 30 days only making more economical for poultry breeders.Increase Imunity and Reduces mortaility chances in birds."
+              }
+            ]
+            }
+            ,
+            {
+              "Id":34,
+              "Name": "Unimark UniSoil 5 Liter",
+              "Image": "Images/UniSoil 5Liter.png",
+              "Mrp": 3750,
+              "Price": 3000,
+               "Trend":"1",
+               "Description":"Mono-Silicic Acid| Potash",
+            "Benefits":[
+              {
+                "ben1":"Makes silicon available to plant in bloavailble form",
+                "ben2":"Reduces biotic & abiotic stress on crops",
+                "ben3":"Enhances plants ability to resist metal toxification",
+                "ben4":"Strengthens stems of crops so that they don't collapse due to heavy rain & wind. Reduces stem breakage"
+              }
+            ]
+            }
+            ,
+            {
+              "Id":35,
+              "Name": "Unimark UNIFERT AZO-N - 5Ltr",
+              "Image": "Images/Unimark UNIFERT AZO-N-5Ltr.png",
+              "Mrp": 3250,
+              "Price": 2600,
+               "Trend":"0",
+               "Description":"Azotobacter Sp.(CFC Min 1 x 102 cell/ml)",
+            "Benefits":[
+              {
+                "ben1":"UNIFERT AZO-Nwhen applied to soil multiples & absorbs the atmospheric nitrogen and fixes the same in the root zone of soil. It helps to plant for rapid growth and yield.",
+                "ben2":"Useful for organic farming.",
+                "ben4":"Increase weight of poultry by helping them to attain weight in 30 days only making more economical for poultry breeders.Increase Imunity and Reduces mortaility chances in birds."
+              }
+            ]
+            }
+            ,
+            {
+              "Id":36,
+              "Name": "Unimark UNIFERT-P - 5ltr",
+              "Image": "Images/Unimark UNIFERT-P-5ltr.png",
+              "Mrp": 3250,
+              "Price": 2600,
+               "Trend":"1",
+               "Description":"Azotobacter Sp.(CFC Min 1 x 102 cell/ml)",
+            "Benefits":[
+              {
+                "ben1":"UNIFERT AZO-Nwhen applied to soil multiples & absorbs the atmospheric nitrogen and fixes the same in the root zone of soil. It helps to plant for rapid growth and yield.",
+                "ben2":"Useful for organic farming.",
+                "ben4":"Increase weight of poultry by helping them to attain weight in 30 days only making more economical for poultry breeders.Increase Imunity and Reduces mortaility chances in birds."
+              }
+            ]
+            },
+            {
+              "Id":37,
+              "Name": "Unimark UNIFERT-K - 5ltr",
+              "Image": "Images/Unimark UNIFERT-K-5ltr.png",
+              "Mrp": 3250,
+              "Price": 2600,
+               "Trend":"1",
+             "Description":"Azotobacter Sp.(CFC Min 1 x 102 cell/ml)",
+            "Benefits":[
+              {
+                "ben1":"UNIFERT AZO-Nwhen applied to soil multiples & absorbs the atmospheric nitrogen and fixes the same in the root zone of soil. It helps to plant for rapid growth and yield.",
+                "ben2":"Useful for organic farming.",
+                "ben4":"Increase weight of poultry by helping them to attain weight in 30 days only making more economical for poultry breeders.Increase Imunity and Reduces mortaility chances in birds."
+              }
+            ]
+            },
+            {
+              "Id":38,
+              "Name": "Unimark Uni Comp - 1ltr",
+              "Image": "Images/Unimark uni comp-1ltr.png",
+              "Mrp": 800,
+              "Price": 640,
+               "Trend":"1",
+              "Description":"Azotobacter Sp.(CFC Min 1 x 102 cell/ml)",
+            "Benefits":[
+              {
+                "ben1":"UNIFERT AZO-Nwhen applied to soil multiples & absorbs the atmospheric nitrogen and fixes the same in the root zone of soil. It helps to plant for rapid growth and yield.",
+                "ben2":"Useful for organic farming.",
+                "ben4":"Increase weight of poultry by helping them to attain weight in 30 days only making more economical for poultry breeders.Increase Imunity and Reduces mortaility chances in birds."
+              }
+            ]
+            },
+            {
+              "Id":39,
+              "Name": "Unimark UNIFERT-K - 1ltr",
+              "Image": "Images/Unimark UNIFERT-K-1ltr.png",
+              "Mrp": 650,
+              "Price": 520,
+               "Trend":"1",
+              "Description":"Azotobacter Sp.(CFC Min 1 x 102 cell/ml)",
+            "Benefits":[
+              {
+                "ben1":"UNIFERT AZO-Nwhen applied to soil multiples & absorbs the atmospheric nitrogen and fixes the same in the root zone of soil. It helps to plant for rapid growth and yield.",
+                "ben2":"Useful for organic farming.",
+                "ben4":"Increase weight of poultry by helping them to attain weight in 30 days only making more economical for poultry breeders.Increase Imunity and Reduces mortaility chances in birds."
+              }
+            ]
+            },
+            {
+              "Id":40,
+              "Name": "Unimark UNIFERT-P - 1ltr",
+              "Image": "Images/Unimark UNIFERT-P-1ltr.png",
+              "Mrp": 650,
+              "Price": 520,
+               "Trend":"1",
+               "Description":"Mono-Silicic Acid| Potash",
+               "Benefits":[
+                 {
+                   "ben1":"Makes silicon available to plant in bloavailble form",
+                   "ben2":"Reduces biotic & abiotic stress on crops",
+                   "ben3":"Enhances plants ability to resist metal toxification",
+                   "ben4":"Strengthens stems of crops so that they don't collapse due to heavy rain & wind. Reduces stem breakage"
+                 }
+               ]
+            },
+            {
+              "Id":41,
+              "Name": "Unimark UNIFERT AZO-N - 1Ltr",
+              "Image": "Images/Unimark UNIFERT AZO_N_1Ltr.png",
+              "Mrp": 520,
+              "Price":210,
+               "Trend":"1",
+               "Description":"Mono-Silicic Acid| Potash",
+               "Benefits":[
+                 {
+                   "ben1":"Makes silicon available to plant in bloavailble form",
+                   "ben2":"Reduces biotic & abiotic stress on crops",
+                   "ben3":"Enhances plants ability to resist metal toxification",
+                   "ben4":"Strengthens stems of crops so that they don't collapse due to heavy rain & wind. Reduces stem breakage"
+                 }
+               ]
+            },
+            {
+              "Id":42,
+              "Name": "Unimark Bio-Pro - 500ml",
+              "Image": "Images/Unimark Bio-Pro_500ml.png",
+              "Mrp": 600,
+              "Price": 480,
+               "Trend":"1",
+               "Description":"Mono-Silicic Acid| Potash",
+               "Benefits":[
+                 {
+                   "ben1":"Makes silicon available to plant in bloavailble form",
+                   "ben2":"Reduces biotic & abiotic stress on crops",
+                   "ben3":"Enhances plants ability to resist metal toxification",
+                   "ben4":"Strengthens stems of crops so that they don't collapse due to heavy rain & wind. Reduces stem breakage"
+                 }
+               ]
+            },
+            {
+              "Id":43,
+              "Name": "Unimark UNI CHARGER - 1 LTR.",
+              "Image": "Images/Unimark UNI CHARGER-1LTR.png",
+              "Mrp": 1200,
+              "Price": 960,
+               "Trend":"1",
+               "Description":"Mono-Silicic Acid| Potash",
+               "Benefits":[
+                 {
+                   "ben1":"Makes silicon available to plant in bloavailble form",
+                   "ben2":"Reduces biotic & abiotic stress on crops",
+                   "ben3":"Enhances plants ability to resist metal toxification",
+                   "ben4":"Strengthens stems of crops so that they don't collapse due to heavy rain & wind. Reduces stem breakage"
+                 }
+               ]
+            },
+            {
+              "Id":44,
+              "Name": "Unimark Hook Up -1ltr",
+              "Image": "Images/Unimark Hook Up-1ltr.png",
+              "Mrp": 2000,
+              "Price": 1600,
+               "Trend":"1",
+              "Description":"Mono-Silicic Acid| Potash",
+               "Benefits":[
+                 {
+                   "ben1":"Makes silicon available to plant in bloavailble form",
+                   "ben2":"Reduces biotic & abiotic stress on crops",
+                   "ben3":"Enhances plants ability to resist metal toxification",
+                   "ben4":"Strengthens stems of crops so that they don't collapse due to heavy rain & wind. Reduces stem breakage"
+                 }
+               ]
+            },
+            {
+              "Id":45,
+              "Name": "Unimark Curlex - 250ml",
+              "Image": "Images/Unimark Curlex-250ml.png",
+              "Mrp": 1000,
+              "Price": 800,
+               "Trend":"1",
+               "Description":"Protein | Vitamins | Minerals | Prebiotics | Probiotics | Bypass Fat,Increases Milk Yield by 10-15% according to breed.Increase SNF and Fat in Milk making Milk more valuable and economical for farmers.Helps to attain 1 calf per year.Increase overall growth of cattle's.Reduces cattle diseases probability.",
+            "Benefits":[
+              {
+                "ben1":"Increases Milk Yield by 10-15% according to breed.Increase SNF and Fat in Milk making Milk more valuable and economical for farmers.Helps to attain 1 calf per year.Increase overall growth of cattle's.Reduces cattle diseases probability.",
+                "ben2":"Increase Weight of goats making them economically moreviable.Increses milk yield and fertility yield as well",
+                "ben3":"Provides pre workout energy for races.Provide post work out energy after races.Increase skin coat and hair lustre.",
+                "ben4":"Increase weight of poultry by helping them to attain weight in 30 days only making more economical for poultry breeders.Increase Imunity and Reduces mortaility chances in birds."
+              }
+            ]
+            },
+            {
+              "Id":46,
+              "Name": "Unimark Acerbic S -500ml",
+              "Image": "Images/Unimark Acerbic S-500ml.png",
+              "Mrp": 1600,
+              "Price": 1280,
+               "Trend":"1",
+               "Description":"Mono-Silicic Acid| Potash",
+               "Benefits":[
+                 {
+                   "ben1":"Makes silicon available to plant in bloavailble form",
+                   "ben2":"Reduces biotic & abiotic stress on crops",
+                   "ben3":"Enhances plants ability to resist metal toxification",
+                   "ben4":"Strengthens stems of crops so that they don't collapse due to heavy rain & wind. Reduces stem breakage"
+                 }
+               ]
+            },
+            {
+              "Id":47,
+              "Name": "Unimark Acerbic -250ml",
+              "Image": "Images/Unimark Acerbic-250ml.png",
+              "Mrp": 1000,
+              "Price": 800,
+               "Trend":"1",
+            "Description":"Mono-Silicic Acid| Potash",
+               "Benefits":[
+                 {
+                   "ben1":"Makes silicon available to plant in bloavailble form",
+                   "ben2":"Reduces biotic & abiotic stress on crops",
+                   "ben3":"Enhances plants ability to resist metal toxification",
+                   "ben4":"Strengthens stems of crops so that they don't collapse due to heavy rain & wind. Reduces stem breakage"
+                 }
+               ]
+            },
+            {
+              "Id":48,
+              "Name": "Unimark Skunk - 250ml",
+              "Image": "Images/Unimark Skunk-250ml.png",
+              "Mrp": 1500,
+              "Price": 1200,
+               "Trend":"1",
+               "Description":"Mono-Silicic Acid| Potash",
+            "Benefits":[
+              {
+                "ben1":"Makes silicon available to plant in bloavailble form",
+                "ben2":"Reduces biotic & abiotic stress on crops",
+                "ben3":"Enhances plants ability to resist metal toxification",
+                "ben4":"Strengthens stems of crops so that they don't collapse due to heavy rain & wind. Reduces stem breakage"
+              }
+            ]
+            },
+            {
+              "Id":49,
+              "Name": "Unimark Booster 25gm",
+              "Image": "Images/Unimark Booster 25gm.png",
+              "Mrp": 850,
+              "Price": 680,
+               "Trend":"1",
+               "Description":"Mono-Silicic Acid| Potash",
+               "Benefits":[
+                 {
+                   "ben1":"Makes silicon available to plant in bloavailble form",
+                   "ben2":"Reduces biotic & abiotic stress on crops",
+                   "ben3":"Enhances plants ability to resist metal toxification",
+                   "ben4":"Strengthens stems of crops so that they don't collapse due to heavy rain & wind. Reduces stem breakage"
+                 }
+               ]
+            },
+            {
+              "Id":50,
+              "Name": "Ocean Fresh Face Wash For Normal & Dry Skin 100 ml",
+              "Image": "Images/Ocean fresh face wash for normal & dry skin 100ml.png",
+              "Mrp": 160,
+              "Price": 128,
+               "Trend":"1",
+               "Description":"Mono-Silicic Acid| Potash",
+               "Benefits":[
+                 {
+                   "ben1":"Makes silicon available to plant in bloavailble form",
+                   "ben2":"Reduces biotic & abiotic stress on crops",
+                   "ben3":"Enhances plants ability to resist metal toxification",
+                   "ben4":"Strengthens stems of crops so that they don't collapse due to heavy rain & wind. Reduces stem breakage"
+                 }
+               ]
+            },
+            {
+              "Id":51,
+              "Name": "Unimark Top Soil 1kg",
+              "Image": "Images/Unimark Top Soil 1kg.png",
+              "Mrp": 800,
+              "Price": 640,
+               "Trend":"1",
+               "Description":"Mono-Silicic Acid| Potash",
+               "Benefits":[
+                 {
+                   "ben1":"Makes silicon available to plant in bloavailble form",
+                   "ben2":"Reduces biotic & abiotic stress on crops",
+                   "ben3":"Enhances plants ability to resist metal toxification",
+                   "ben4":"Strengthens stems of crops so that they don't collapse due to heavy rain & wind. Reduces stem breakage"
+                 }
+               ]
+            },
+            {
+              "Id":52,
+              "Name": "Unimark WIND - UP 1 LTR",
+              "Image": "Images/Unimark WIND-UP 1LTR.png",
+              "Mrp": 1400,
+              "Price": 1120,
+               "Trend":"1",
+               "Description":"Mono-Silicic Acid| Potash",
+               "Benefits":[
+                 {
+                   "ben1":"Makes silicon available to plant in bloavailble form",
+                   "ben2":"Reduces biotic & abiotic stress on crops",
+                   "ben3":"Enhances plants ability to resist metal toxification",
+                   "ben4":"Strengthens stems of crops so that they don't collapse due to heavy rain & wind. Reduces stem breakage"
+                 }
+               ]
+            },
+            {
+              "Id":53,
+              "Name": "Myristika Myristika Foot Cream",
+              "Image": "Images/Myristika Foot cream.png",
+              "Mrp": 180,
+              "Price": 144,
+               "Trend":"1",
+               "Description":"Mono-Silicic Acid| Potash",
+            "Benefits":[
+              {
+                "ben1":"Makes silicon available to plant in bloavailble form",
+                "ben2":"Reduces biotic & abiotic stress on crops",
+                "ben3":"Enhances plants ability to resist metal toxification",
+                "ben4":"Strengthens stems of crops so that they don't collapse due to heavy rain & wind. Reduces stem breakage"
+              }
+            ]
+            
+            },
+            {
+              "Id":54,
+              "Name": "Unimark UNIPH - 500 ML",
+              "Image": "Images/Unimark UNIPH-500 ml.png",
+              "Mrp": 800,
+              "Price": 640,
+               "Trend":"1",
+              "Description":"Mono-Silicic Acid| Potash",
+            "Benefits":[
+              {
+                "ben1":"Makes silicon available to plant in bloavailble form",
+                "ben2":"Reduces biotic & abiotic stress on crops",
+                "ben3":"Enhances plants ability to resist metal toxification",
+                "ben4":"Strengthens stems of crops so that they don't collapse due to heavy rain & wind. Reduces stem breakage"
+              }
+            ]
+            },
+            {
+              "Id":55,
+              "Name": "Unimark UniSil – 500 ml",
+              "Image": "Images/Unisoil-500 ml.png",
+              "Mrp": 540,
+              "Price": 210,
+               "Trend":"1",
+               "Description":"Mono-Silicic Acid| Potash",
+            "Benefits":[
+              {
+                "ben1":"Makes silicon available to plant in bloavailble form",
+                "ben2":"Reduces biotic & abiotic stress on crops",
+                "ben3":"Enhances plants ability to resist metal toxification",
+                "ben4":"Strengthens stems of crops so that they don't collapse due to heavy rain & wind. Reduces stem breakage"
+              }
+            ]
+            },
+            {
+              "Id":55,
+              "Name": "Unimark UNISIL - 1 LTR",
+              "Image": "Images/Unimark UNISIL-1LTR.png",
+              "Mrp": 1200,
+              "Price": 960,
+               "Trend":"1",
+               "Description":"Mono-Silicic Acid| Potash",
+            "Benefits":[
+              {
+                "ben1":"Makes silicon available to plant in bloavailble form",
+                "ben2":"Reduces biotic & abiotic stress on crops",
+                "ben3":"Enhances plants ability to resist metal toxification",
+                "ben4":"Strengthens stems of crops so that they don't collapse due to heavy rain & wind. Reduces stem breakage"
+              }
+            ]
+            },
+            {
+                "Id":55,
+                "Name": "Unimark UNICARBN - 1 LTR",
+                "Image": "Images/Unimark UNICARBN-1LTR.png",
+                "Mrp": 850,
+                "Price": 680,
+                 "Trend":"1",
+                 "Description":"Mono-Silicic Acid| Potash",
+                 "Benefits":[
+                   {
+                     "ben1":"Makes silicon available to plant in bloavailble form",
+                     "ben2":"Reduces biotic & abiotic stress on crops",
+                     "ben3":"Enhances plants ability to resist metal toxification",
+                     "ben4":"Strengthens stems of crops so that they don't collapse due to heavy rain & wind. Reduces stem breakage"
+                   }
+                 ]
+              },
+              {
+                "Id":55,
+                "Name": "Unimark UniCarbN 5 Liter",
+                "Image": "Images/UniCarbN 5 Liter.png",
+                "Mrp": 4250,
+                "Price": 3400,
+                 "Trend":"1",
+                "Description":"Azotobacter Sp.(CFC Min 1 x 102 cell/ml)",
+            "Benefits":[
+              {
+                "ben1":"UNIFERT AZO-Nwhen applied to soil multiples & absorbs the atmospheric nitrogen and fixes the same in the root zone of soil. It helps to plant for rapid growth and yield.",
+                "ben2":"Useful for organic farming.",
+                "ben4":"Increase weight of poultry by helping them to attain weight in 30 days only making more economical for poultry breeders.Increase Imunity and Reduces mortaility chances in birds."
+              }
+            ]
+              }
+            ]
+          },{
+            
+                "Category": "Grocery",
+                "Image": "Images/Groceryc.jpg",
+                "Products": [
+                  {
+                    "Id":1,
+                    "Name": "UNYK TANDOORI CHICKEN MASALA - 100gm 120 108",
+                    "Image":"Images/tandoori chicken masala.png",
+                    "Mrp": 120,
+                    "Price": 108,
+                     "Trend":"0",
+                     "Description":"UNYK Chicken Masalais a mix of aromatic and flavourable spices which adds a unique earthy flavour to your dishes.It's the most magical and extraordinary mix of spices that is used mostly in Indian cuisine.This masala pairs perfectly with the chicken making it delightful."
+                  
+                  },
+                  {
+                    "Id":2,
+                    "Name": "UNYK CHOLE MASALA - 100gm 60 54",
+                    "Image": "Images/chole masala.png",
+                    "Mrp": 60,
+                    "Price": 54,
+                     "Trend":"1",
+                     "Description":"Chhole Masalais the most excellent ingredient to make spicy,delicious and tasty Chhole masala.A perfect blend of spices and others so evenly balanced that it not only adds taste but also enhances the flavour and also imparts really natural taste of chhole/Chana."
+                   
+                  },
+                  {
+                    "Id":3,
+                    "Name": "UNYK KITCHEN KING MASALA-100gm",
+                    "Image": "Images/kitchen king masala.png",
+                    "Mrp": 60,
+                    "Price": 54,
+                     "Trend":"0",
+                     "Description":"Made by using organic spices with cold press technology to keep essential oils instact for aromatic and rich flavour.Helps to enhance and make your dish tasty.Ideal for all dishes & Easy to use."
+                   
+                  },
+                  {
+                    "Id":4,
+                    "Name": "UNYK EGG CURRY MASLA - 100gm 70 63",
+                    "Image": "Images/egg curry masla.png",
+                    "Mrp": 70,
+                    "Price": 63,
+                     "Trend":"1",
+                     "Description":"Egg lovers can now relish their favourite food with tangy,tasty recipe full of rich aroma & flavour.Makes super hotel style gravy which can increase your carvings."
+                    
+                  },
+                  {
+                    "Id":5,
+                    "Name": "UNYK CHAAT MASALA - 100gm 50 45",
+                    "Image": "Images/chaat masala.png",
+                    "Mrp": 50,
+                    "Price": 45,
+                     "Trend":"0",
+                     "Description":"UNYK Chaat Masalais an all-in-one seasoning.It adds a tangy flavour and zesty twist to any meal,leaving a savoury in ypur tastebuds.UNYK Chaat Masala Powderis a blend of many spices that adds a perfect tanginess and elevates the richness of fruits and vegetables."
+                    
+                  },
+                  {
+                    "Id":6,
+                    "Name": "UNYK MUTTON MASALA - 100gm",
+                    "Image": "Images/mutton masala.png",
+                    "Mrp": 80,
+                    "Price": 72,
+                     "Trend":"1",
+                     "Description":"UNYK Mutton Masalais a blend of pepper-coriander-chill based combine that gives a hot taste to non-veg dishes,particularly meat.It enhances texture,taste and flavour of the meat to give you unique experience of meat like neverbefore."
+                    
+                  },
+                  {
+                    "Id":7,
+                    "Name": "UNYK FISH FRY MASALA - 100gm",
+                    "Image": "Images/fish fry masala.png",
+                    "Mrp": 80,
+                    "Price": 72,
+                     "Trend":"0",
+                     "Description":"Seafood lovers have nothing to worry as UNYK Fish Fry Masala is a perfect blend to a make traditional Fish Fry at home and this masala brings out the true flavour and aroma of Fish So relish on your favourites sea food with the masala."
+                    
+                  },
+                  {
+                    "Id":8,
+                    "Name": "UNYK SABJI MASALA - 100gm 70 63",
+                    "Image": "Images/sabji masala.png",
+                    "Mrp": 70,
+                    "Price": 63,
+                     "Trend":"1",
+                     "Description":"UNYK Sabji Masalais spice full combination that enhances the taste of any vegetable dish.It is the secret of making lip-smacking curries,tasty everyday veggies,and special preparations."
+                    
+                  }
+                  ,
+                  {
+                    "Id":9,
+                    "Name": "UNYK SAMBHAR MASALA - 100gm 60 54",
+                    "Image": "Images/sambhar masala.png",
+                    "Mrp": 60,
+                    "Price": 54,
+                     "Trend":"0",
+                     "Description":"UNYK Coriander or Dhaniya powderis an essential part of every kitchen.Made by crushing dried coriander seeds,this spice lends s citrusy flavour and aroma to various dishes."
+                   
+                  }
+                  ,  {
+                    "Id":10,
+                    "Name": "UNYK CHICKEN MASALA - 100gm 70 63",
+                    "Image": "Images/chicken masala.png",
+                    "Mrp": 70,
+                    "Price": 63,
+                     "Trend":"1",
+                     "Description":"UNYK Coriander or Dhaniya powderis an essential part of every kitchen.Made by crushing dried coriander seeds,this spice lends s citrusy flavour and aroma to various dishes."
+                    
+                  },
+                  {
+                    "Id":11,
+                    "Name": "UNYK GARAM MASALA 100gm",
+                    "Image": "Images/garam masala.png",
+                    "Mrp": 80,
+                    "Price": 72,
+                     "Trend":"0",
+                     "Description":"UNYK Coriander or Dhaniya powderis an essential part of every kitchen.Made by crushing dried coriander seeds,this spice lends s citrusy flavour and aroma to various dishes."
+                    
+                  },
+                  {
+                    "Id":12,
+                    "Name": "UNYK BIRYANI MASALA - 100gm",
+                    "Image": "Images/briyani masala.png",
+                    "Mrp": 100,
+                    "Price": 90,
+                     "Trend":"1",
+                     "Description":"UNYK Coriander or Dhaniya powderis an essential part of every kitchen.Made by crushing dried coriander seeds,this spice lends s citrusy flavour and aroma to various dishes."
+                    
+                  },
+                  {
+                    "Id":12,
+                    "Name": "UNYK FISH CURRY MASALA - 100gm",
+                    "Image": "Images/fish curry masala.png",
+                    "Mrp": 60,
+                    "Price": 54,
+                     "Trend":"1",
+                     "Description":"UNYK Coriander or Dhaniya powderis an essential part of every kitchen.Made by crushing dried coriander seeds,this spice lends s citrusy flavour and aroma to various dishes."
+                    
+                  },
+                  {
+                    "Id":12,
+                    "Name": "UNYK KADHAI PANEER MASALA -100gm",
+                    "Image": "Images/paneer masala.png",
+                    "Mrp": 80,
+                    "Price": 72,
+                     "Trend":"1",
+                     "Description":"UNYK Coriander or Dhaniya powderis an essential part of every kitchen.Made by crushing dried coriander seeds,this spice lends s citrusy flavour and aroma to various dishes."
+                    
+                  },
+                  {
+                    "Id":12,
+                    "Name": "UNYK PAV BHAJI MASALA - 100gm",
+                    "Image": "Images/pav bhaji masala.png",
+                    "Mrp": 60,
+                    "Price": 54,
+                     "Trend":"1",
+                     "Description":"UNYK Coriander or Dhaniya powderis an essential part of every kitchen.Made by crushing dried coriander seeds,this spice lends s citrusy flavour and aroma to various dishes."
+                    
+                  },
+                  {
+                    "Id":12,
+                    "Name": "UNYK KANDA LAHSUN MASALA - 100gm",
+                    "Image": "Images/lahsun Masala.png",
+                    "Mrp": 50,
+                    "Price": 45,
+                     "Trend":"1",
+                     "Description":"UNYK Coriander or Dhaniya powderis an essential part of every kitchen.Made by crushing dried coriander seeds,this spice lends s citrusy flavour and aroma to various dishes."
+                    
+                    
+                  },
+                  {
+                    "Id":12,
+                    "Name": "UNYK CORIANDER POWDER -200g",
+                    "Image": "Images/coriander powder.png",
+                    "Mrp": 80,
+                    "Price": 72,
+                     "Trend":"1",
+                     "Description":"UNYK Coriander or Dhaniya powderis an essential part of every kitchen.Made by crushing dried coriander seeds,this spice lends s citrusy flavour and aroma to various dishes."
+                    
+                  },
+                  {
+                    "Id":12,
+                    "Name": "UNYK BIRYANI MASALA - 100gm",
+                    "Image": "Images/briyani masala.png",
+                    "Mrp": 100,
+                    "Price": 90,
+                     "Trend":"1",
+                     "Description":"Biryaniis a authentic dish,very famous in all communities.UNYK Biryani Masalais ready-to-add mix that gives you lip-smacking veg and non-veg biryani.It's made from a blend of special spices that ensures you get a delectable taste in every spoon.Relish on Royal cuisine with this Biryani Masala."
+          
+                    
+                  },
+                  {
+                    "Id":12,
+                    "Name": "UNYK TURMERIC POWDER - 200gm V1",
+                    "Image": "Images/Turmeric powder.png",
+                    "Mrp": 70,
+                    "Price": 63,
+                     "Trend":"1",
+                     "Description":"UNYK Turmeric or Haldiis an essential ingrdiant in Indian cuisines.It is not only used for its health benefits.It gives musky flavour and yellow colour to curries."
+                     
+                    
+                  }
+                  
+                
+                ]
+              
+          }
+            
+            ]
+          
+      }
+
+
+    
+
+  
+  
